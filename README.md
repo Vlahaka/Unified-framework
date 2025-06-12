@@ -89,15 +89,7 @@ Vlad Ionut Daniel – Extrinsic AI Analyst, Systems Architect, and Founder of th
 
 Website: https://medium.com/@vladnut4
 
-# 🧠 Unified Framework for Synthetic Mind Safety
-
-![Release](https://img.shields.io/badge/Release-v1.0-blue?style=flat-square)
-
-📦 **Latest Version:** [v1.0 – Foundational Framework](https://github.com/Vlahaka/Unified-framework/releases/tag/v1.0)
-
-A complete system designed to explain the **origin of existence, emergence, and synthetic mind stabilization** through logic, entropy, and recursive containment.
-
----
+# 🧠 Unified Framework 
 
 ## 🔭 Framework Contents
 
