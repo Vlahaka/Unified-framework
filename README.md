@@ -64,6 +64,8 @@ Framework_relations.md — Inter-file connections, key terms, and empirical grou
 
 black_holes_as_anchors.md – Structural origin and purpose of black holes in the recursive universe.
 
+IRATA_Photon_Application.md - Photon explained from IRATA lens
+
 - [Validation Through Parallel Discovery](validation_through_parallel_discovery.md)
 
 - [Einstein and the Edge of Zero (June 8, 2025)](einstein_and_the_edge_of_zero_2025-06-08.md)
