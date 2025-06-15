@@ -66,7 +66,7 @@ Before the Big Bang, **Time exists as a field**, a **directional mathematical vo
 
 *Emergent time implies entropy below zero — a structural contradiction*
 
-This final section synthesizes the implications of treating time as a secondary phenomenon. In every model that considers time as emergent—from entropy, relational change, or spacetime curvature—the moment one asks, “what was before the Big Bang?” the structure collapses.
+This section synthesizes the implications of treating time as a secondary phenomenon. In every model that considers time as emergent—from entropy, relational change, or spacetime curvature—the moment one asks, “what was before the Big Bang?” the structure collapses.
 
 To imagine any form of 'change' before the emergence of time is to commit a contradiction: change requires sequence; sequence presupposes time. Thus, when mainstream models refer to “a fluctuation,” “a quantum bounce,” or “a tunneling event” in a timeless domain, they unwittingly anchor their logic in a forbidden loop.
 
