@@ -212,3 +212,6 @@ All coherent emergence must begin with **Time as the infinite origin**.
 ---
 
 **End of Paper**
+
+Vlad Ionut Daniel
+15th of June 2025
