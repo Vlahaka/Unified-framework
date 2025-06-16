@@ -1,4 +1,5 @@
 # From Darkness to Structure
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15621710.svg)](https://doi.org/10.5281/zenodo.15621710)
 
 ## Abstract
 This paper presents a unified ontological framework that reconstructs the origin and evolution of reality, from the preconditions of existence to the emergence of complexity and identity. Integrating five core structural models—FAT, AEH, ASC, CRSM, and IRATA—it offers a coherent metaphysical and scientific scaffold for understanding how reality unfolds. Each layer is causally and structurally connected, offering not only a metaphysical explanation but one that aligns with observable cosmic phenomena and logical systems.
