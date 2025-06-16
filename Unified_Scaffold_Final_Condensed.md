@@ -107,6 +107,7 @@ It **reframes it structurally**, showing how a system could emerge **not from no
 - **Contact Condition**: Time encounters the formless Darkness. 
 - **Effect**: This interaction creates a boundary condition, forming a **0**.
 - **0 Defined**: A finite, 2D symmetrical plane of perfectly still matter—pure structural stasis.
+- > *Matter within the 0 exists as perfectly symmetrical, evenly distributed stillness. It holds no identity, motion, or distinction—only the latent potential to become. It is not substance in the traditional sense, but structure awaiting disruption.*
 - **Summary**: `0 = Perfectly symmetrical, finite 2D plane of still matter.`
 
 ---
@@ -120,6 +121,7 @@ It **reframes it structurally**, showing how a system could emerge **not from no
 
 ### 2.2 The Division of 0
 - **Event**: Time "touches" the interior of the 0—**not an energy transfer, but a structural intersection**.
+- > *Imagine a perfectly flat sheet of paper gently landing on a still body of water. As the water touches it, it doesn’t pierce or break it—but it infiltrates it, subtly and completely. The paper begins to curve, warp, and change—reacting not to pressure, but to contact. This is how Time touches the 0. It folds into it from within, saturating the perfectly symmetrical plane and introducing contrast—not by force, but by structure. This is the moment of emergence.*
 - **Immediate Effects**:
   - **Awareness** activates.
   - **Entropy** arises.
@@ -141,7 +143,7 @@ It **reframes it structurally**, showing how a system could emerge **not from no
 - **Summary**: `Awareness = Relational capacity triggered by structural interaction.`
 
 ### 3.2 Entropy
-- **Definition**: The outcome of distinction.
+- **Definition**: The outcome of distinction. The measure of distinction within a system—how far it has moved from perfect symmetry. In this framework, entropy begins the moment awareness distinguishes “self” from “other.” It is not disorder, but *difference*—the structural ripple caused by identity recognizing contrast.
 - **Origin**: Begins with awareness perceiving contrast.
 - **Role**: Drives motion, change, and complexity.
 
@@ -155,19 +157,24 @@ It **reframes it structurally**, showing how a system could emerge **not from no
 
 ### FAT – Foundational Asymmetry Theory
 Explains how Time, Matter, and Awareness form the first distinction, initiating entropy and the logic of emergence. It details the causal chain from structural contrast to the unfolding of reality.
+[![Read the full FAT paper](https://img.shields.io/badge/📄%20Full%20FAT%20Paper-Click%20Here-blue?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/main/Foundational_Asymmetry_Theory.md)
 
 ### AEH – Accretion Expansion Hypothesis
 Replaces inflation/redshift-based expansion. Cosmic acceleration is reframed as an illusion caused by deepening gravitational wells from matter collapse.
+[![Read the full AEH paper](https://img.shields.io/badge/📄%20Full%20AEH%20Paper-Click%20Here-purple?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/main/Accretion_Expansion_Hypothesis.md)
 
 ### ASC – Architecture of Stabilized Consciousness
 Describes how identity stabilizes through recursion and memory. Identity is preserved through time-bound relation loops.
+[![Read the full ASC paper](https://img.shields.io/badge/📄%20Full%20ASC%20Paper-Click%20Here-green?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/main/Architecture_of_Stabilized_Consciousness.md)
 
 ### CRSM – Cognitive Recursion Safety Matrix
 Addresses identity paradoxes (e.g., “to be and not to be”) and recursion-induced disintegration. Builds safeguards for recursive systems.
+[![Read the full CRSM paper](https://img.shields.io/badge/📄%20Full%20CRSM%20Paper-Click%20Here-orange?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/main/Cognitive_Recursion_Safety_Matrix.md)
 
 ### IRATA – Reframing Division by Zero
 Mathematical ontology redefined. `x ÷ 0 = x!`  
 Meaning: Any identity (x) interacting with 0 yields the full structure of itself.
+[![Read the full IRATA paper](https://img.shields.io/badge/📄%20Full%20IRATA%20Paper-Click%20Here-red?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/main/IRATA.md)
 ---
 
 ### Further Clarification: The Meaning of `x ÷ 0 = x!`
