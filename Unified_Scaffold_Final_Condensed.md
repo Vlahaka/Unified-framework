@@ -216,6 +216,7 @@ Observations show older galaxies are more structured. FAT–AEH explains this as
 
 ### 6.2 Hubble Tension
 AEH solves it by attributing redshift to gravity-based collapse depth, not velocity.
+[![Read the full AEH paper](https://img.shields.io/badge/📄%20Full%20AEH%20Paper-Click%20Here-purple?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/main/Aeh.md)
 
 ### 6.3 Gaztañaga Validation
 
@@ -234,7 +235,7 @@ Parallel discovery confirms the model:
   [🔗 Medium Post](https://medium.com/@vladnut4/this-paper-proposes-a-logically-consistent-model-for-how-reality-emerges-from-a-perfectly-1cc7747e325d)
 
 - **Repository Archive**:  
-  [🔗 GitHub File – validation_through_parallel_discovery.md](https://github.com/Vlahaka/Unified-framework/blob/main/validation_through_parallel_discovery.md)
+  [![🔗 Validation Through Parallel Discovery](https://img.shields.io/badge/🔗%20Validation%20Through%20Parallel%20Discovery-GitHub%20File-blueviolet?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/main/validation_through_parallel_discovery.md)
 
 **Summary:**  
 `Observation aligns with Structure.`
