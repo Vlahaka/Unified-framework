@@ -1,74 +1,65 @@
 
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>The Unified Scaffold</title>
   <style>
     body {
       margin: 0;
-      padding: 0;
-      background: url('https://images.unsplash.com/photo-1447430617419-95715602278e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80') no-repeat center center fixed;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: url('https://images.unsplash.com/photo-1581320548340-2c77c2e4e1cb?auto=format&fit=crop&w=1950&q=80') no-repeat center center fixed;
       background-size: cover;
-      font-family: Arial, sans-serif;
-      color: #ffffff;
+      color: white;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
       text-align: center;
+      backdrop-filter: brightness(0.85);
     }
-
-    .container {
-      background-color: rgba(0, 0, 0, 0.7);
-      margin: 2rem auto;
-      padding: 2rem;
-      max-width: 800px;
-      border-radius: 12px;
-    }
-
     h1 {
-      font-size: 2.5rem;
-      margin-bottom: 1rem;
+      font-size: 3em;
+      margin-bottom: 0.5em;
     }
-
     p {
-      font-size: 1.1rem;
-      line-height: 1.6;
+      font-size: 1.2em;
+      max-width: 800px;
+      padding: 0 1em;
     }
-
-    a {
-      color: #00d9ff;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-
     .button {
-      display: inline-block;
-      margin-top: 1.5rem;
-      padding: 0.75rem 1.5rem;
-      background-color: #00d9ff;
-      color: #000;
-      font-weight: bold;
+      background-color: #00bfff;
+      color: white;
+      padding: 0.8em 1.5em;
+      margin: 1em;
       border: none;
       border-radius: 8px;
-      cursor: pointer;
+      font-size: 1em;
+      text-decoration: none;
+      transition: background-color 0.3s ease;
+    }
+    .button:hover {
+      background-color: #009ace;
+    }
+    .footer-link {
+      margin-top: 1em;
+      font-size: 0.95em;
+      color: #87ceeb;
       text-decoration: none;
     }
-
-    .button:hover {
-      background-color: #00b5cc;
+    .footer-link:hover {
+      text-decoration: underline;
     }
   </style>
 </head>
 <body>
-  <div class="container">
-    <h1>The Unified Scaffold</h1>
-    <p>A journey from absolute darkness to structured reality. This repository contains the full conceptual model—beginning with pre-existence and emerging into identity, entropy, time, awareness, and even real-world physical predictions. </p>
-    <p>Explore the paper here:</p>
-    <a class="button" href="https://github.com/Vlahaka/Unified-framework/blob/main/Unified_Scaffold_Final_Condensed.md" target="_blank">Read the Condensed Paper</a>
-    <p style="margin-top: 2rem;">Or browse the full GitHub repository:<br>
-    <a href="https://github.com/Vlahaka/Unified-framework" target="_blank">github.com/Vlahaka/Unified-framework</a></p>
-  </div>
+  <h1>The Unified Scaffold</h1>
+  <p>
+    A journey from absolute darkness to structured reality. This repository contains the full conceptual model—beginning with pre-existence and emerging into identity, entropy, time, awareness, and even real-world physical predictions.
+  </p>
+  <a class="button" href="https://github.com/Vlahaka/Unified-framework/blob/main/Unified_Scaffold_Final_Condensed.md" target="_blank">Read the Condensed Paper</a>
+  <br />
+  <a class="footer-link" href="https://github.com/Vlahaka/Unified-framework" target="_blank">Browse the full GitHub repository</a>
 </body>
 </html>
