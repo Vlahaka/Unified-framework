@@ -158,3 +158,7 @@ It is a structure.
 Structure is the language of emergence.
 
 This Unified Scaffold offers the first complete model of reality as recursive emergence from contrast, stabilized by relation, and unfolding through time.
+
+Author
+Vlad Ionut Daniel
+16th of June 2025
