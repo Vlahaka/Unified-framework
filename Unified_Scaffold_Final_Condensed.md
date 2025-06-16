@@ -175,9 +175,8 @@ Addresses identity paradoxes (e.g., “to be and not to be”) and recursion-ind
 Mathematical ontology redefined. `x ÷ 0 = x!`  
 Meaning: Any identity (x) interacting with 0 yields the full structure of itself.
 [![Read the full IRATA paper](https://img.shields.io/badge/📄%20Full%20IRATA%20Paper-Click%20Here-red?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/main/IRATA.md)
----
 
-### Further Clarification: The Meaning of `x ÷ 0 = x!`
+  Further Clarification: The Meaning of `x ÷ 0 = x!`
 
 **What does it mean when x interacts with 0?**
 
