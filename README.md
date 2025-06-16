@@ -8,6 +8,15 @@ This repository contains the complete body of work surrounding the Unified Frame
 The framework is composed of multiple independent but interconnected theories, each exploring a specific aspect of cosmic structure, recursive logic, and identity formation.
 
 ---
+### 📘 Unified Scaffold: Condensed Edition
+
+[![View the Paper](https://img.shields.io/badge/Paper-Unified_Scaffold-blue?style=flat-square&logo=github)](https://github.com/Vlahaka/Unified-framework/blob/4ba46b3a53fd20ccaca2b77f82b6897ca61ba76d/Unified_Scaffold_Final_Condensed.md)
+
+**Summary**  
+This condensed paper presents the **Unified Scaffold: From Darkness to Structure**, a comprehensive ontological framework that redefines the origin of time, matter, awareness, and structure.  
+It integrates five core models—**FAT**, **AEH**, **ASC**, **CRSM**, and **IRATA**—into a single causal chain from primordial symmetry to real-world phenomena such as cosmic redshift and black hole recursion.
+
+> “Truth is not a spark. It is a structure.”
 
 ## Core Framework Files
 
