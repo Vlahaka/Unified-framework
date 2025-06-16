@@ -98,7 +98,7 @@ It **reframes it structurally**, showing how a system could emerge **not from no
 - **Summary**: `Darkness = Infinite potential without identity.`
 
 ### 1.2 Time
-- **Definition**: **Time**, within this framework, is not a ticking clock or a flowing river—it is **infinite structure without motion**. It exists independently of space or events. Time provides directionality: a one-way ordering principle that makes change, causality, and memory possible. Unlike matter or awareness, Time is not physical and cannot be depleted. It is theinfinite entity in the system and its structured nature allows it to interact with the formless Darkness to generate the first stable distinction: the 0.  
+- **Definition**: **Time**, within this framework, is not a ticking clock or a flowing river—it is **infinite structure without motion**. It exists independently of space or events. Time provides directionality: a one-way ordering principle that makes change, causality, and memory possible. Unlike matter or awareness, Time is not physical and cannot be depleted. It is the infinite entity in the system with structured nature that allows it to interact with the formless Darkness to generate the first stable distinction: the 0.  
 - **Nature**: No beginning, no end, but directional. Exists without event.  
 - **Summary**: `Time = Infinite structure without motion.`
 
