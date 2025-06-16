@@ -103,7 +103,8 @@ It **reframes it structurally**, showing how a system could emerge **not from no
 - **Summary**: `Time = Infinite structure without motion.`
 
 ### 1.3 The Nature of Emergence
-- **Contact Condition**: Time encounters the formless edge of Darkness.  
+> *To imagine the coexistence of Darkness and Time, picture the middle of the ocean on a moonless night. All around is black—vast, undistinguished, formless. Yet beneath that stillness lies a hidden structure, a silent orientation. Time, in this analogy, is not motion but a latent directional field—an invisible grain across the void.*
+- **Contact Condition**: Time encounters the formless Darkness. 
 - **Effect**: This interaction creates a boundary condition, forming a **0**.
 - **0 Defined**: A finite, 2D symmetrical plane of perfectly still matter—pure structural stasis.
 - **Summary**: `0 = Perfectly symmetrical, finite 2D plane of still matter.`
