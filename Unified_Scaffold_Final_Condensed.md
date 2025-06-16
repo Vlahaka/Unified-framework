@@ -1,3 +1,4 @@
+![Universe Banner](https://github.com/Vlahaka/Unified-framework/blob/1c2cc8738798c7d0f2621c4da50e361de0cd9ad4/file_0000000097686243a9672db5a6f6e417.png?raw=true)
 # From Darkness to Structure
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15621710.svg)](https://doi.org/10.5281/zenodo.15621710)
 
