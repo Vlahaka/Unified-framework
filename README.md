@@ -1,5 +1,6 @@
 # Unified Framework – Metaphysical and Structural Cosmology
 **Author:** Vlad Ionut Daniel
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15621710.svg)](https://doi.org/10.5281/zenodo.15621710)
 
 ## Overview
 This repository contains the complete body of work surrounding the Unified Framework, a structural cosmological model built from first principles. It integrates metaphysical reasoning with structured causal emergence to explain the origin of reality, matter, time, identity, and consciousness.
@@ -39,9 +40,4 @@ The framework is composed of multiple independent but interconnected theories, e
 
 See **[LICENCE.md](./Unified-framework-main/LICENCE.md)** for usage terms.
 
----
-
-## Author Note
-
-This work was developed independently and submitted to scientific and AI institutions as a complete structural framework. It has been reviewed by both human researchers and LLMs for logical consistency. It is intended as both a metaphysical philosophy and a testable structure theory.
 
