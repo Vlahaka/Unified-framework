@@ -212,6 +212,7 @@ Together, they form a **unified language** of structure and recursion.
 
 ### 6.1 James Webb & Redshift
 Observations show older galaxies are more structured. FAT–AEH explains this as curvature, not explosion.
+[![📄 Read the Full Paper Here](https://img.shields.io/badge/📄%20Read%20the%20Full%20Paper%20Here-JWST%20+%20FAT--AEH%20Framework-blue?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/d6fba48dc200a84f91119ba6938e1608334250d1/JWST%20Observations%20with%20the%20FAT-AEH%20Framework.md)
 
 ### 6.2 Hubble Tension
 AEH solves it by attributing redshift to gravity-based collapse depth, not velocity.
