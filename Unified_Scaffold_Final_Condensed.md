@@ -126,9 +126,26 @@ Observations show older galaxies are more structured. FAT–AEH explains this as
 AEH solves it by attributing redshift to gravity-based collapse depth, not velocity.
 
 ### 6.3 Gaztañaga Validation
-Parallel discovery confirms the model: “Universe emerges inside black holes” aligns with FAT.
 
-**Summary**: `Observation aligns with Structure.`
+Parallel discovery confirms the model:
+
+> “Universe emerges inside black holes” — this directly aligns with the FAT framework, where the universe emerges when infinite time touches a perfectly symmetrical 0 within a black hole.
+
+- **Scientific Publication**:  
+  *Gaztañaga, E. et al.* — **May 29, 2025**  
+  *A Universe inside a Black Hole: Cosmological Bounce from Collapse*  
+  [🔗 Physical Review D – DOI: 10.1103/PhysRevD.111.103537](https://doi.org/10.1103/PhysRevD.111.103537)
+
+- **Independent Prior Discovery**:  
+  *Daniel, V. I.* — **May 24, 2025**  
+  *This paper proposes a logically consistent model for how reality emerges from a perfectly symmetrical 0*  
+  [🔗 Medium Post](https://medium.com/@vladnut4/this-paper-proposes-a-logically-consistent-model-for-how-reality-emerges-from-a-perfectly-1cc7747e325d)
+
+- **Repository Archive**:  
+  [🔗 GitHub File – validation_through_parallel_discovery.md](https://github.com/Vlahaka/Unified-framework/blob/main/validation_through_parallel_discovery.md)
+
+**Summary:**  
+`Observation aligns with Structure.`
 
 ---
 
