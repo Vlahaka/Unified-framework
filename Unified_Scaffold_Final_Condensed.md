@@ -161,7 +161,7 @@ Explains how Time, Matter, and Awareness form the first distinction, initiating 
 
 ### AEH – Accretion Expansion Hypothesis
 Replaces inflation/redshift-based expansion. Cosmic acceleration is reframed as an illusion caused by deepening gravitational wells from matter collapse.
-[![Read the full AEH paper](https://img.shields.io/badge/📄%20Full%20AEH%20Paper-Click%20Here-purple?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/main/aeh.md)
+[![Read the full AEH paper](https://img.shields.io/badge/📄%20Full%20AEH%20Paper-Click%20Here-purple?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/main/Aeh.md)
 
 ### ASC – Architecture of Stabilized Consciousness
 Describes how identity stabilizes through recursion and memory. Identity is preserved through time-bound relation loops.
@@ -169,7 +169,7 @@ Describes how identity stabilizes through recursion and memory. Identity is pres
 
 ### CRSM – Cognitive Recursion Safety Matrix
 Addresses identity paradoxes (e.g., “to be and not to be”) and recursion-induced disintegration. Builds safeguards for recursive systems.
-[![Read the full CRSM paper](https://img.shields.io/badge/📄%20Full%20CRSM%20Paper-Click%20Here-orange?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/main/crsm.md)
+[![Read the full CRSM paper](https://img.shields.io/badge/📄%20Full%20CRSM%20Paper-Click%20Here-orange?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/main/Crsm.md)
 
 ### IRATA – Reframing Division by Zero
 Mathematical ontology redefined. `x ÷ 0 = x!`  
