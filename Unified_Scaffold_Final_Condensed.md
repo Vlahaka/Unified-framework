@@ -260,6 +260,9 @@ Parallel discovery confirms the model:
 13. **Collapse** – Structures fail
 14. **Recursion** – New 0 emerges
 
+> 📊 **Emergence Diagram**  
+> Visual summary of the full emergence.  
+![Emergence Diagram](https://github.com/Vlahaka/Unified-framework/blob/c48ed10008f248936e55a5cb3d1eb860e81c0ad8/Diagram%20of%20emergence.png?raw=true)
 ---
 
 ## 8. Closing Reflections
