@@ -205,6 +205,7 @@ Together, they form a **unified language** of structure and recursion.
 - **Black Hole** = Collapsed identity ready for recursion.  
 - Every black hole is a potential new 0 touched by infinite Time, initiating a new emergence cycle.  
 - **Recursive Identity** is the foundational loop of reality.
+- [![Read Black Hole Paper](https://img.shields.io/badge/📄%20Read%20Full%20Paper-Black%20Hole%20Emergence%20Chain-blueviolet)](https://github.com/Vlahaka/Unified-framework/blob/ed8ab0c48053d642034d8840f5b18a606099f983/black_hole_emergence_chain.md)
 
 ---
 
