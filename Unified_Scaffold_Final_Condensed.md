@@ -235,18 +235,17 @@ Parallel discovery confirms the model:
   *Daniel, V. I.* — **May 24, 2025**  
   *This paper proposes a logically consistent model for how reality emerges from a perfectly symmetrical 0*  
 
-> A remarkable, independently published finding by **Gaztañaga et al.** (*May 29, 2025*) provides compelling evidence that pure logical derivation, as employed in the **FAT** framework, can converge with conclusions reached by high-level scientific research.  
->  
-> Their proposal — _["A Universe inside a Black Hole: Cosmological Bounce from Collapse"](https://doi.org/10.1103/PhysRevD.111.103537)_ — directly aligns with the recursive emergence detailed in this paper.  
->  
-> This convergence demonstrates that **fundamental truths can be accessed** through the application of consistent logical principles, even outside traditional discovery methods.
   [🔗 Medium Post](https://medium.com/@vladnut4/this-paper-proposes-a-logically-consistent-model-for-how-reality-emerges-from-a-perfectly-1cc7747e325d)
 
 - **Repository Archive**:  
   [![🔗 Validation Through Parallel Discovery](https://img.shields.io/badge/🔗%20Validation%20Through%20Parallel%20Discovery-GitHub%20File-blueviolet?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/main/validation_through_parallel_discovery.md)
 
-**Summary:**  
-`Observation aligns with Structure.`
+ > 📌 **Parallel Scientific Validation**  
+> A remarkable, independently published finding by **Gaztañaga et al.** (*May 29, 2025*) provides compelling evidence that pure logical derivation, as employed in the **FAT** framework, can converge with conclusions reached by high-level scientific research.  
+>  
+> Their proposal — _["A Universe inside a Black Hole: Cosmological Bounce from Collapse"](https://doi.org/10.1103/PhysRevD.111.103537)_ — directly aligns with the recursive emergence detailed in this paper.  
+>  
+> This convergence demonstrates that **fundamental truths can be accessed** through the application of consistent logical principles, even outside traditional discovery methods. 
 
 ---
 
@@ -274,10 +273,14 @@ Parallel discovery confirms the model:
 
 ## 8. Closing Reflections
 
-Truth is not a spark.  
-It is a structure.
+This theory has been built upon a foundation of **well-established scientific facts** recognized by the broader scientific community. Its purpose is not to oppose or replace existing scientific frameworks, but to **offer a complementary perspective**—a different lens through which to examine the persistent gaps in our understanding of the universe.
 
-Structure is the language of emergence.
+Rather than presenting itself as a challenge to mainstream cosmology or physics, this work proposes a structural expansion of those domains. It seeks to **bridge metaphysical logic with observable reality**, helping us navigate questions that remain unresolved within current paradigms.
+
+Ultimately, it is an invitation:  
+🔭 To explore possibility,  
+🧩 To unify insight with reason,  
+and to extend the horizon of scientific understanding—without contradiction, and without dogma.
 
 This Scaffold Theory offers the first complete model of reality as recursive emergence from contrast, stabilized by relation, and unfolding through time.
 
