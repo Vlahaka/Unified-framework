@@ -100,7 +100,11 @@ It **reframes it structurally**, showing how a system could emerge **not from no
 
 ### 1.2 Time
 - **Definition**: **Time**, within this framework, is not a ticking clock or a flowing river—it is **infinite structure without motion**. It exists independently of space or events. Time provides directionality: a one-way ordering principle that makes change, causality, and memory possible. Unlike matter or awareness, Time is not physical and cannot be depleted. It is the infinite entity in the system with structured nature that allows it to interact with the formless Darkness to generate the first stable distinction: the 0.  
-- **Nature**: No beginning, no end, but directional. Exists without event.  
+- **Nature**: No beginning, no end, but directional. Exists without event.
+
+- #### 🟡 Important Note
+This interpretation of time does **not alter** how time is understood or experienced **within** our universe. All scientific observations—such as time dilation, thermodynamic directionality, and cosmic chronology—remain valid and untouched. What this framework introduces is a **pre-universal structure of time**: one that exists **before** space, matter, and even the Big Bang.
+Inside the universe, **time behaves exactly as established by physics today**. Outside the universe, this framework proposes that time is the **precondition** that allows structure to emerge in the first place—without contradicting any known scientific or empirical facts.
 - **Summary**: `Time = Infinite structure without motion.`
 
 ### 1.3 The Nature of Emergence
