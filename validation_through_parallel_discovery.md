@@ -1,4 +1,4 @@
-🧩 Validation Through Parallel Discovery
+### Validation Through Parallel Discovery
 
 Summary
 
