@@ -284,6 +284,15 @@ Parallel discovery confirms the model:
 > Visual summary of the full emergence.  
 ![Emergence Diagram](https://github.com/Vlahaka/Unified-framework/blob/c48ed10008f248936e55a5cb3d1eb860e81c0ad8/Diagram%20of%20emergence.png?raw=true)
 ---
+---
+
+### Important Clarification
+
+This theory does **not claim** that our universe was formed as the very first instance of symmetry (the first “0”) in the contact between Darkness and Time. Instead, it presents a **structurally consistent model** for how such a first emergence could occur.
+
+Our universe may be a **recursive consequence**—a later iteration in a potentially infinite chain of emergent realities, each initiated by the same structural principle: the contact between structured Time and perfectly symmetrical Matter within a finite void.
+
+---
 
 ## 8. Closing Reflections
 
