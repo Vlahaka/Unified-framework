@@ -2,7 +2,7 @@
 # From Darkness to Structure
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15621710.svg)](https://doi.org/10.5281/zenodo.15621710)
 
-Access the whole repository here
+> Access the whole repository here
 [![View on GitHub](https://img.shields.io/badge/GitHub-Unified--framework-181717?logo=github&style=for-the-badge)](https://github.com/Vlahaka/Unified-framework)
 
 ## Abstract
@@ -283,7 +283,7 @@ Parallel discovery confirms the model:
 > 📊 **Emergence Diagram**  
 > Visual summary of the full emergence.  
 ![Emergence Diagram](https://github.com/Vlahaka/Unified-framework/blob/c48ed10008f248936e55a5cb3d1eb860e81c0ad8/Diagram%20of%20emergence.png?raw=true)
----
+
 ---
 
 ### Important Clarification
@@ -307,8 +307,12 @@ and to extend the horizon of scientific understanding—without contradiction, a
 
 This Scaffold Theory offers the first complete model of reality as recursive emergence from contrast, stabilized by relation, and unfolding through time.
 
+---
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15621710.svg)](https://doi.org/10.5281/zenodo.15621710)  
 **📌 For academic citation, use this DOI:** [10.5281/zenodo.15621710](https://doi.org/10.5281/zenodo.15621710)
+
+---
 
 Author
 Vlad Ionut Daniel
