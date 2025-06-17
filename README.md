@@ -1,4 +1,4 @@
-# Unified Framework – Metaphysical and Structural Cosmology
+# Framework – Metaphysical and Structural Cosmology
 **Author:** Vlad Ionut Daniel
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15621710.svg)](https://doi.org/10.5281/zenodo.15621710)
 
