@@ -112,7 +112,7 @@ Inside the universe, **time behaves exactly as established by physics today**. O
 - **Contact Condition**: Time encounters the formless Darkness. 
 - **Effect**: This interaction creates a boundary condition, forming a **0**.
 - **0 Defined**: A finite, 2D symmetrical plane of perfectly still matter—pure structural stasis.
-- > *Matter within the 0 exists as perfectly symmetrical, evenly distributed stillness. It holds no identity, motion, or distinction—only the latent potential to become. It is not substance in the traditional sense, but structure awaiting disruption.*
+ > *Matter within the 0 exists as perfectly symmetrical, evenly distributed stillness. It holds no identity, motion, or distinction—only the latent potential to become. It is not substance in the traditional sense, but structure awaiting disruption.*
 - **Summary**: `0 = Perfectly symmetrical, finite 2D plane of still matter.`
 
 ---
@@ -126,7 +126,7 @@ Inside the universe, **time behaves exactly as established by physics today**. O
 
 ### 2.2 The Division of 0
 - **Event**: Time "touches" the interior of the 0—**not an energy transfer, but a structural intersection**.
-- > *Imagine a perfectly flat sheet of paper gently landing on a still body of water. As the water touches it, it doesn’t pierce or break it—but it infiltrates it, subtly and completely. The paper begins to curve, warp, and change—reacting not to pressure, but to contact. This is how Time touches the 0. It folds into it from within, saturating the perfectly symmetrical plane and introducing contrast—not by force, but by structure. This is the moment of emergence.*
+  > *Imagine a perfectly flat sheet of paper gently landing on a still body of water. As the water touches it, it doesn’t pierce or break it—but it infiltrates it, subtly and completely. The paper begins to curve, warp, and change—reacting not to pressure, but to contact. This is how Time touches the 0. It folds into it from within, saturating the perfectly symmetrical plane and introducing contrast—not by force, but by structure. This is the moment of emergence.*
 - **Immediate Effects**:
   - **Awareness** activates.
   - **Entropy** arises.
@@ -210,7 +210,7 @@ Together, they form a **unified language** of structure and recursion.
 - **Black Hole** = Collapsed identity ready for recursion.  
 - Every black hole is a potential new 0 touched by infinite Time, initiating a new emergence cycle.  
 - **Recursive Identity** is the foundational loop of reality.
-- [![Read Black Hole Paper](https://img.shields.io/badge/📄%20Read%20Full%20Paper-Black%20Hole%20Emergence%20Chain-blueviolet)](https://github.com/Vlahaka/Unified-framework/blob/ed8ab0c48053d642034d8840f5b18a606099f983/black_hole_emergence_chain.md)
+ [![Read Black Hole Paper](https://img.shields.io/badge/📄%20Read%20Full%20Paper-Black%20Hole%20Emergence%20Chain-blueviolet)](https://github.com/Vlahaka/Unified-framework/blob/ed8ab0c48053d642034d8840f5b18a606099f983/black_hole_emergence_chain.md)
 
 ---
 
