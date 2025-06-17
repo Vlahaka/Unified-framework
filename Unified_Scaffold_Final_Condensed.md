@@ -6,7 +6,7 @@ Access the whole repository here
 [![View on GitHub](https://img.shields.io/badge/GitHub-Unified--framework-181717?logo=github&style=for-the-badge)](https://github.com/Vlahaka/Unified-framework)
 
 ## Abstract
-This paper presents a unified ontological framework that reconstructs the origin and evolution of reality, from the preconditions of existence to the emergence of complexity and identity. Integrating five core structural models—FAT, AEH, ASC, CRSM, and IRATA—it offers a coherent metaphysical and scientific scaffold for understanding how reality unfolds. Each layer is causally and structurally connected, offering not only a metaphysical explanation but one that aligns with observable cosmic phenomena and logical systems.
+This paper presents an ontological framework that reconstructs the origin and evolution of reality, from the preconditions of existence to the emergence of complexity and identity. Integrating five core structural models—FAT, AEH, ASC, CRSM, and IRATA—it offers a coherent metaphysical and scientific scaffold for understanding how reality unfolds. Each layer is causally and structurally connected, offering not only a metaphysical explanation but one that aligns with observable cosmic phenomena and logical systems.
 
 ---
 ## Narrative: The Problem Before the Beginning
@@ -69,7 +69,7 @@ Any framework that **requires time** to operate (like standard physics) cannot b
 
 ### 4. Why This Paper Exists
 
-This is the rift that the **Unified Scaffold** aims to cross.
+This is the rift that this **Scaffold** theory aims to cross.
 
 Rather than starting **inside the universe** and working backward, this framework starts **before structure**, before even time.  
 It defines not just a story, but a **mechanism of emergence**—grounded in:
@@ -273,7 +273,7 @@ It is a structure.
 
 Structure is the language of emergence.
 
-This Unified Scaffold offers the first complete model of reality as recursive emergence from contrast, stabilized by relation, and unfolding through time.
+This Scaffold Theory offers the first complete model of reality as recursive emergence from contrast, stabilized by relation, and unfolding through time.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15621710.svg)](https://doi.org/10.5281/zenodo.15621710)  
 **📌 For academic citation, use this DOI:** [10.5281/zenodo.15621710](https://doi.org/10.5281/zenodo.15621710)
