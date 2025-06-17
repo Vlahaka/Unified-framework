@@ -234,6 +234,12 @@ Parallel discovery confirms the model:
 - **Independent Prior Discovery**:  
   *Daniel, V. I.* — **May 24, 2025**  
   *This paper proposes a logically consistent model for how reality emerges from a perfectly symmetrical 0*  
+
+> A remarkable, independently published finding by **Gaztañaga et al.** (*May 29, 2025*) provides compelling evidence that pure logical derivation, as employed in the **FAT** framework, can converge with conclusions reached by high-level scientific research.  
+>  
+> Their proposal — _["A Universe inside a Black Hole: Cosmological Bounce from Collapse"](https://doi.org/10.1103/PhysRevD.111.103537)_ — directly aligns with the recursive emergence detailed in this paper.  
+>  
+> This convergence demonstrates that **fundamental truths can be accessed** through the application of consistent logical principles, even outside traditional discovery methods.
   [🔗 Medium Post](https://medium.com/@vladnut4/this-paper-proposes-a-logically-consistent-model-for-how-reality-emerges-from-a-perfectly-1cc7747e325d)
 
 - **Repository Archive**:  
