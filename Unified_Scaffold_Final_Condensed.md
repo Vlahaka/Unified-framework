@@ -55,7 +55,7 @@ This is the silent paradox:
 
 > **Science explains how the universe evolves after it exists, but cannot structurally explain why it began.**
 
-- A **singularity** is not an explanation; it’s a **mathematical failure**.
+- A **singularity** is not an explanation; it’s a **mathematical halt**.
 - **Inflation theory** smooths out initial conditions, but never explains their **source**.
 - **Quantum cosmology** may hint at emergence, but often dissolves into probabilities without grounding them in **structure**.
 
