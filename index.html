@@ -1,96 +1,62 @@
 
+---
+title: The Unified Scaffold              <!-- 1-line front-matter turns on Jekyll -->
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>The Unified Scaffold</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <title>The Unified Scaffold – Condensed Paper</title>
+
+  <!--  You can keep or delete this internal CSS.
+        If you already link an external stylesheet, remove the <style> block. -->
   <style>
-    body {
-      margin: 0;
-      padding: 0;
-      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-      color: white;
-      background-image: url('https://vlahaka.github.io/Unified-framework/galaxy.jpg');
-      background-size: cover;
-      background-position: center;
-      background-attachment: fixed;
+    body{
+      margin:0;
+      font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;
+      line-height:1.6;
+      background:#0b1120;           /* deep-blue backdrop */
+      color:#f8fafc;                /* near-white text   */
     }
-
-    .container {
-      background: rgba(0, 0, 0, 0.7);
-      margin: 10% auto;
-      padding: 2em;
-      border-radius: 10px;
-      max-width: 600px;
-      text-align: center;
+    a { color:#38bdf8; text-decoration:none; }
+    .container{max-width:960px;margin:0 auto;padding:2rem;}
+    header h1{margin:0 0 0.5rem;font-size:2.25rem;color:#facc15;}
+    header p{margin:0 0 1.5rem;font-size:1.1rem;opacity:0.8;}
+    article{
+      background:#111827;
+      padding:2rem;
+      border-radius:0.75rem;
     }
-
-    h1 {
-      font-size: 2.5em;
-      margin-bottom: 0.5em;
-    }
-
-    p {
-      font-size: 1.2em;
-      line-height: 1.6;
-    }
-
-    a.button {
-      display: inline-block;
-      margin-top: 1.5em;
-      padding: 0.75em 1.5em;
-      background-color: #00bcd4;
-      color: black;
-      font-weight: bold;
-      border-radius: 5px;
-      text-decoration: none;
-      transition: background-color 0.3s;
-    }
-
-    a.button:hover {
-      background-color: #008ba3;
-    }
-
-    a.repo-link {
-      display: block;
-      margin-top: 1.5em;
-      color: #00bcd4;
-      text-decoration: none;
-    }
-
-    a.repo-link:hover {
-      text-decoration: underline;
-    }
+    article h1,article h2,article h3{color:#facc15;}   /* headings pop */
   </style>
 </head>
+
 <body>
-  <div class="container">
+  <!-- ----------  HEADER  ---------- -->
+  <header class="container">
     <h1>The Unified Scaffold</h1>
-    <!-- index.html  ─ only the <div class="container"> … </div> block is changed -->
-<div class="container">
-  <h1>The Unified Scaffold</h1>
+    <p>
+      A speculative framework tracing how infinite potential condenses into
+      the universe we observe. Full condensed paper below.
+    </p>
+  </header>
 
-  <p>
-    A journey from absolute darkness to structured reality. This framework
-    sketches how infinite potential condenses into entropy, time, awareness
-    – and even real-world physical predictions.
-  </p>
+  <!-- ----------  MAIN CONTENT  ---------- -->
+  <main class="container">
+    <!-- The entire Markdown paper is pulled in and rendered here -->
+    <article markdown="1">
+      {% include_relative Unified_Scaffold_Final_Condensed.md %}
+    </article>
 
-  <!-- The WHOLE Markdown paper is rendered right here -->
-  <article id="paper" markdown="1">
-    {% include_relative Unified_Scaffold_Final_Condensed.md %}
-  </article>
-
-  <!-- keep the repo link if you still want it -->
-  <a class="repo-link" href="https://github.com/Vlahaka/Unified-framework">
-    Browse the full GitHub repository
-  </a>
-</div>
-    </a>
-    <a class="repo-link" href="https://github.com/Vlahaka/Unified-framework">
-      Or browse the full GitHub repository
-    </a>
-  </div>
+    <!-- Optional link back to the GitHub repo -->
+    <p style="margin-top:2rem">
+      <a href="https://github.com/Vlahaka/Unified-framework">
+        Browse the full project on GitHub
+      </a>
+    </p>
+  </main>
 </body>
 </html>
