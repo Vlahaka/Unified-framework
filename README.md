@@ -38,7 +38,7 @@ It integrates five core models—**FAT**, **AEH**, **ASC**, **CRSM**, and **IRAT
 
 - **[From_Zero_to_Universe_Final.md](./Unified-framework-main/From_Zero_to_Universe_Final.md)** – A narrative expansion of FAT, exploring the emergence of the universe through curvature, motion, and awareness.
 - **[Framework_relations.md](./Unified-framework-main/Framework_relations.md)** – Diagrammatic and conceptual mapping between all components of the framework.
-- **[JWST Observations with the FAT-AEH Framework.md](./Unified-framework-main/JWST Observations with the FAT-AEH Framework.md)** – Observational alignment of theoretical predictions with JWST redshift data.
+- **[JWST Observations with the FAT-AEH Framework](./JWST%20Observations%20with%20the%20FAT-AEH%20Framework.md)** – Observational alignment of theoretical predictions with JWST redshift data.
 - **[black_hole_emergence_chain.md](./Unified-framework-main/black_hole_emergence_chain.md)** – Describes recursive universe formation via black holes.
 - **[black_holes_as_anchors.md](./Unified-framework-main/black_holes_as_anchors.md)** – Philosophical function of black holes in cosmic structure.
 - **[antimatter_latency_unified.md](./Unified-framework-main/antimatter_latency_unified.md)** – Unified latency model of antimatter using time-structure principles.
