@@ -3,17 +3,17 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15621710.svg)](https://doi.org/10.5281/zenodo.15621710)
 
 ## Overview
-This repository contains the complete body of work surrounding the Unified Framework, a structural cosmological model built from first principles. It integrates metaphysical reasoning with structured causal emergence to explain the origin of reality, matter, time, identity, and consciousness.
+This repository contains the complete body of work surrounding the Scaffold Theory, a structural cosmological model built from first principles. It integrates metaphysical reasoning with structured causal emergence to explain the origin of reality, matter, time, identity, and consciousness.
 
 The framework is composed of multiple independent but interconnected theories, each exploring a specific aspect of cosmic structure, recursive logic, and identity formation.
 
 ---
-### 📘 Unified Scaffold: Condensed Edition
+### 📘Scaffold Theory: Condensed Edition
 
 [![View the Paper](https://img.shields.io/badge/Paper-Unified_Scaffold-blue?style=flat-square&logo=github)](https://github.com/Vlahaka/Unified-framework/blob/4ba46b3a53fd20ccaca2b77f82b6897ca61ba76d/Unified_Scaffold_Final_Condensed.md)  Click here to read the paper!
 
 **Summary**  
-This condensed paper presents the **Unified Scaffold: From Darkness to Structure**, a comprehensive ontological framework that redefines the origin of time, matter, awareness, and structure.  
+This condensed paper presents the **Scaffold Theory: From Darkness to Structure**, a comprehensive ontological framework that redefines the origin of time, matter, awareness, and structure.  
 It integrates five core models—**FAT**, **AEH**, **ASC**, **CRSM**, and **IRATA**—into a single causal chain from primordial symmetry to real-world phenomena such as cosmic redshift and black hole recursion.
 
 > “Truth is not a spark. It is a structure.”
