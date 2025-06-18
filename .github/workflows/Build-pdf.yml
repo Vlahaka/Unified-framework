@@ -1,7 +1,7 @@
 # .github/workflows/build-pdf.yml
 name: Build PDFs from Markdown
 
-# ── Trigger the workflow on every push to the main branch (add others if you like)
+# ── Run this workflow on every push to your main branch.
 on:
   push:
     branches: [ "main", "master" ]
@@ -15,11 +15,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 2️⃣  Install Pandoc + a TeX engine that includes xelatex
-      - name: Install Pandoc and TeX Live
+      # 2️⃣  Install Pandoc, TeX Live (with xelatex), and rsvg-convert for SVG images
+      - name: Install Pandoc, TeX Live, and SVG converter
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-latex-extra
+          sudo apt-get install -y \
+            pandoc \
+            texlive-xetex texlive-fonts-recommended texlive-latex-extra \
+            librsvg2-bin      # ← supplies rsvg-convert required for SVG badges
 
       # 3️⃣  Convert your Markdown file to PDF
       - name: Convert Markdown ➜ PDF
