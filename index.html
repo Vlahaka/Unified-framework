@@ -67,11 +67,26 @@
 <body>
   <div class="container">
     <h1>The Unified Scaffold</h1>
-    <p>
-      A journey from absolute darkness to structured reality. This repository contains the full conceptual model—beginning with pre-existence and emerging into identity, entropy, time, awareness, and even real-world physical predictions.
-    </p>
-    <a class="button" href="https://github.com/Vlahaka/Unified-framework/blob/main/Unified_Scaffold_Final_Condensed.md">
-      Read the Condensed Paper
+    <!-- index.html  ─ only the <div class="container"> … </div> block is changed -->
+<div class="container">
+  <h1>The Unified Scaffold</h1>
+
+  <p>
+    A journey from absolute darkness to structured reality. This framework
+    sketches how infinite potential condenses into entropy, time, awareness
+    – and even real-world physical predictions.
+  </p>
+
+  <!-- The WHOLE Markdown paper is rendered right here -->
+  <article id="paper" markdown="1">
+    {% include_relative Unified_Scaffold_Final_Condensed.md %}
+  </article>
+
+  <!-- keep the repo link if you still want it -->
+  <a class="repo-link" href="https://github.com/Vlahaka/Unified-framework">
+    Browse the full GitHub repository
+  </a>
+</div>
     </a>
     <a class="repo-link" href="https://github.com/Vlahaka/Unified-framework">
       Or browse the full GitHub repository
