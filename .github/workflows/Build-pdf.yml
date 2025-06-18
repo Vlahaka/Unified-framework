@@ -1,0 +1,36 @@
+# .github/workflows/build-pdf.yml
+name: Build PDFs from Markdown
+
+# --- Trigger: run on every push to the default branch; you can change to 'main' or add 'pull_request' if you wish.
+on:
+  push:
+    branches: ["master", "main"]
+
+jobs:
+  pandoc:
+    runs-on: ubuntu-latest            # GitHub-hosted Linux VM
+    steps:
+      # Step 1: get your repo code
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      # Step 2: install Pandoc and a minimal LaTeX engine
+      - name: Install Pandoc and TeX Live
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-latex-extra
+
+      # Step 3: convert your Markdown to PDF
+      #        --pdf-engine=xelatex works well with Unicode and maths.
+      - name: Convert Markdown ➜ PDF
+        run: |
+          pandoc Unified_Scaffold_Final_Condensed.md \
+                 --pdf-engine=xelatex \
+                 -o Unified_Scaffold_Final_Condensed.pdf
+
+      # Step 4: upload the PDF so you can download it from the Actions page
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: scaffold-paper-pdf
+          path: Unified_Scaffold_Final_Condensed.pdf
