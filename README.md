@@ -10,7 +10,7 @@ The framework is composed of multiple independent but interconnected theories, e
 ---
 ### 📘Scaffold Theory: Condensed Edition
 
-[![View the Paper](https://img.shields.io/badge/Paper-Unified_Scaffold-blue?style=flat-square&logo=github)](https://github.com/Vlahaka/Unified-framework/blob/4ba46b3a53fd20ccaca2b77f82b6897ca61ba76d/Unified_Scaffold_Final_Condensed.md)  Click here to read the paper!
+[![read here – From Darkness to Structure](https://img.shields.io/badge/read%20here-From%20Darkness%20to%20Structure-blue?style=for-the-badge)](Unified_Scaffold_Final_Condensed.md)
 
 **Summary**  
 This condensed paper presents the **Scaffold Theory: From Darkness to Structure**, a comprehensive ontological framework that redefines the origin of time, matter, awareness, and structure.  
