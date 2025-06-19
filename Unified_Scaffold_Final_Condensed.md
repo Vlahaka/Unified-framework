@@ -372,6 +372,8 @@ Ultimately, it is an invitation:
 🧩 To unify insight with reason,  
 and to extend the horizon of scientific understanding—without contradiction, and without dogma.
 
+> This theory does not aim to develop or replace established mathematical models. Rather, it acknowledges the limitations of its authorship in advanced mathematical formalism. The goal is not to quantify, but to logically connect known scientific facts in a coherent structure that may help bridge the conceptual gaps in our understanding of cosmic origin. It is an offering of logic, clarity, and structural reasoning—to stand alongside mathematical models, not compete with them.
+
 This Scaffold Theory offers the first complete model of reality as recursive emergence from contrast, stabilized by relation, and unfolding through time.
 
 ---
