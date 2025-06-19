@@ -330,7 +330,7 @@ Parallel discovery confirms the model:
 
 ---
 
-## The Scaffold Theory Expanded 
+## 7. The Scaffold Theory Expanded 
 
 - The Birth of a Universe
 
