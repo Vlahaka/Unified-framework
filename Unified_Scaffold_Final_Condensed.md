@@ -99,7 +99,7 @@ It **reframes it structurally**, showing how a system could emerge **not from no
 Photographs captured by satellites and space telescopes reveal a universe saturated with luminous phenomena—stars, galaxies, supernovae, nebulae—countless points of light scattered across the cosmic canvas. Yet there is a critical element that remains largely unspoken: the darkness in which all of this light resides.
 
 > This darkness is not an absence to be overlooked. It is present in every image, in every direction we observe—pervasive and unbroken, stretching beyond the furthest light our instruments can detect. Logically, we can extend this observation: the darkness is not confined to the boundaries of our observable universe. It must also exist beyond it—before it, around it, and after it.
-
+>
 > Moreover, darkness is not limited to the void between stars. It defines the most enigmatic structures in existence: black holes. Beyond the event horizon lies not chaos or fire, but perfect black—a region devoid of light, yet rich with structure.
 
 Taken together, these observations support a bold but grounded claim: darkness is not just the background of the universe—it is a foundational presence. Infinite in scope, it frames existence before, within, and beyond our universe. It is not the absence of something. It is the condition through which all else becomes visible.
@@ -109,9 +109,9 @@ Taken together, these observations support a bold but grounded claim: darkness i
 - The standard Big Bang framework asserts that time itself began at the moment of the Big Bang. This is widely accepted in modern cosmology, supported by multiple lines of compelling evidence:
 
 > Hubble’s Law observes that galaxies are receding from us at speeds proportional to their distance. This implies that, if we reverse the arrow of time, all matter and energy would converge to a singular origin point in the distant past.
-
+>
 > The Cosmic Microwave Background (CMB) provides a snapshot of the universe approximately 380,000 years after the Big Bang. Prior to this epoch, the universe was an opaque plasma. As it cooled, electrons and protons combined into neutral atoms, allowing photons to travel freely. This relic radiation is observed as the CMB and is one of the most powerful confirmations of the Big Bang model.
-
+>
 > Einstein’s General Theory of Relativity suggests that if we mathematically extrapolate the expansion of the universe backward, we arrive at a singularity—a point of infinite density and temperature—where spacetime curvature becomes extreme, and conventional physics breaks down.
 
 
@@ -184,9 +184,9 @@ it becomes felt through the unfolding of motion, memory, and entropy—even thou
 
 How can something emerge from two perfectly still, non-moving, non-flowing infinities?
 
-Let us imagine a sealed glass tank filled with pure, motionless water. This tank is placed in a perfectly isolated chamber—no particles, no microbes, no disturbances of any kind. The system is in perfect stillness.
-
-Now, imagine leaving this tank undisturbed for a hundred years. What would happen?
+> Let us imagine a sealed glass tank filled with pure, motionless water. This tank is placed in a perfectly isolated chamber—no particles, no microbes, no disturbances of any kind. The system is in perfect stillness.
+>
+> Now, imagine leaving this tank undisturbed for a hundred years. What would happen?
 
 At first glance, we might assume nothing changes. But at the molecular level, subtle interactions begin to accumulate—between the water and the container itself. Even in apparent stillness, structure exists. Molecules exert pressure, surfaces interact, and over time, minute asymmetries emerge.
 
