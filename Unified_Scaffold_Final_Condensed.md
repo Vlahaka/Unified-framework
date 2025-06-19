@@ -330,7 +330,24 @@ Parallel discovery confirms the model:
 
 ---
 
-## 7. Summary: The Emergence Chain
+## The Scaffold Theory Expanded 
+
+- The Birth of a Universe
+
+This paper shows how a universe could evolve from the moment of emergence.
+[![📄 Read&nbsp;the&nbsp;Full&nbsp;Paper&nbsp;Here](https://img.shields.io/badge/📄 Read the Full Paper Here-blueviolet?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/0b568561dbaaa4b9c2e668893539fb4d4de34f44/FAT_Birth_of_a_Universe.md)
+
+- The Photon viewed with a new lens
+
+By using IRATA, the division by 0, here is a reframing of the photon in section 2 of the paper.
+[![🔬 IRATA – Photon Application](https://img.shields.io/badge/🔬 IRATA–Photon_Application-red?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/0b568561dbaaa4b9c2e668893539fb4d4de34f44/IRATA_Photon_Application.md)
+
+
+
+
+---
+
+## 8. Summary: The Emergence Chain
 
 1. **Darkness** – Infinite formlessness
 2. **Time** – Infinite directional structure
@@ -361,7 +378,7 @@ Our universe may be a **recursive consequence**—a later iteration in a potenti
 
 ---
 
-## 8. Closing Reflections
+## 9. Closing Reflections
 
 This theory has been built upon a foundation of **well-established scientific facts** recognized by the broader scientific community. Its purpose is not to oppose or replace existing scientific frameworks, but to **offer a complementary perspective**—a different lens through which to examine the persistent gaps in our understanding of the universe.
 
