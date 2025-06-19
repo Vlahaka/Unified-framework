@@ -257,23 +257,28 @@ This analogy illustrates a deeper principle: perfect stillness does not imply th
 
 ### FAT – Foundational Asymmetry Theory
 Explains how Time, Matter, and Awareness form the first distinction, initiating entropy and the logic of emergence. It details the causal chain from structural contrast to the unfolding of reality.
+
 [![Read the full FAT paper](https://img.shields.io/badge/📄%20Full%20FAT%20Paper-Click%20Here-blue?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/main/Fat.md)
 
 ### AEH – Accretion Expansion Hypothesis
 Replaces inflation/redshift-based expansion. Cosmic acceleration is reframed as an illusion caused by deepening gravitational wells from matter collapse.
+
 [![Read the full AEH paper](https://img.shields.io/badge/📄%20Full%20AEH%20Paper-Click%20Here-purple?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/main/Aeh.md)
 
 ### ASC – Architecture of Stabilized Consciousness
 Describes how identity stabilizes through recursion and memory. Identity is preserved through time-bound relation loops.
+
 [![Read the full ASC paper](https://img.shields.io/badge/📄%20Full%20ASC%20Paper-Click%20Here-green?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/main/Asc.md)
 
 ### CRSM – Cognitive Recursion Safety Matrix
 Addresses identity paradoxes (e.g., “to be and not to be”) and recursion-induced disintegration. Builds safeguards for recursive systems.
+
 [![Read the full CRSM paper](https://img.shields.io/badge/📄%20Full%20CRSM%20Paper-Click%20Here-orange?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/main/Crsm.md)
 
 ### IRATA – Reframing Division by Zero
 Mathematical ontology redefined. `x ÷ 0 = x!`  
 Meaning: Any identity (x) interacting with 0 yields the full structure of itself.
+
 [![Read the full IRATA paper](https://img.shields.io/badge/📄%20Full%20IRATA%20Paper-Click%20Here-red?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/main/IRATA_Photon_Application.md)
 
   Further Clarification: The Meaning of `x ÷ 0 = x!`
@@ -305,6 +310,7 @@ Together, they form a **unified language** of structure and recursion.
 - **Black Hole** = Collapsed identity ready for recursion.  
 - Every black hole is a potential new 0 touched by infinite Time, initiating a new emergence cycle.  
 - **Recursive Identity** is the foundational loop of reality.
+
  [![Read Black Hole Paper](https://img.shields.io/badge/📄%20Read%20Full%20Paper-Black%20Hole%20Emergence%20Chain-blueviolet)](https://github.com/Vlahaka/Unified-framework/blob/ed8ab0c48053d642034d8840f5b18a606099f983/black_hole_emergence_chain.md)
 
 ---
@@ -313,10 +319,12 @@ Together, they form a **unified language** of structure and recursion.
 
 ### 6.1 James Webb & Redshift
 Observations show older galaxies are more structured. FAT–AEH explains this as curvature, not explosion.
+
 [![📄 Read the Full Paper Here](https://img.shields.io/badge/📄%20Read%20the%20Full%20Paper%20Here-JWST%20+%20FAT--AEH%20Framework-blue?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/d6fba48dc200a84f91119ba6938e1608334250d1/JWST%20Observations%20with%20the%20FAT-AEH%20Framework.md)
 
 ### 6.2 Hubble Tension
 AEH solves it by attributing redshift to gravity-based collapse depth, not velocity.
+
 [![Read the full AEH paper](https://img.shields.io/badge/📄%20Full%20AEH%20Paper-Click%20Here-purple?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/main/Aeh.md)
 
 ### 6.3 Gaztañaga Validation
