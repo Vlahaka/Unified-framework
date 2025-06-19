@@ -1,8 +1,6 @@
-Black Holes as Structural Anchors of the Universe
+### Black Holes as Structural Anchors of the Universe
 
-Author: Vlad Ionut Daniel
-Extrinsic AI Analyst
-June 2025
+> Author: Vlad Ionut Daniel June 2025
 
 
 ---
