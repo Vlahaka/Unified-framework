@@ -169,7 +169,7 @@ Inside the universe, **time behaves exactly as established by physics today**. O
 Outside the universe, Time does not flow. It simply is—infinite, directional, and non-material.
 Inside the universe, Time wraps around and infiltrates existence, much like the atmosphere surrounds and permeates all life on Earth.
 
-We cannot see air. We cannot touch it. Yet we feel it, breathe it, and live within it. Time inside our universe behaves in the same way:
+> We cannot see air. We cannot touch it. Yet we feel it, breathe it, and live within it. Time inside our universe behaves in the same way:
 it becomes felt through the unfolding of motion, memory, and entropy—even though its source lies beyond our physical structure.
 
 - **Summary**: `Time = Infinite structure without motion.`
