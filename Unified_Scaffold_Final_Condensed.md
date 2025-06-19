@@ -332,6 +332,8 @@ Parallel discovery confirms the model:
 
 ## 7. The Scaffold Theory Expanded 
 
+> The Scaffold Theory is not a single model, but a recursive framework composed of interrelated parts. The following papers expand the core structure into new domains—physical, cognitive, ontological—demonstrating how emergence, recursion, and structural collapse give rise to all known complexity.
+
 - The Birth of a Universe
 
 This paper shows how a universe could evolve from the moment of emergence.
