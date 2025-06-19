@@ -5,6 +5,24 @@
 > Access the whole repository here
 [![View on GitHub](https://img.shields.io/badge/GitHub-Unified--framework-181717?logo=github&style=for-the-badge)](https://github.com/Vlahaka/Unified-framework)
 
+---
+
+## 📑 Table of Contents
+
+- [Abstract](#abstract)  
+- [The Problem Before the Beginning](#narrative-the-problem-before-the-beginning)  
+- [1. Preconditions of Existence](#1-preconditions-of-existence)  
+- [2. Emergence of 0](#2-the-emergence-of-0)  
+- [3. Awareness, Entropy, Identity](#3-awareness-entropy-and-identity)  
+- [4. Core Scaffold Models](#4-core-models-of-the-scaffold)  
+- [5. Recursive Realities](#5-recursive-realities)  
+- [6. Empirical Convergence](#6-empirical-convergence)  
+- [7. Scaffold Theory Expanded](#7-the-scaffold-theory-expanded)  
+- [8. Emergence Chain Summary](#8-summary-the-emergence-chain)  
+- [9. Closing Reflections](#9-closing-reflections)
+
+---
+
 ## Abstract
 This paper presents an ontological framework that reconstructs the origin and evolution of reality, from the preconditions of existence to the emergence of complexity and identity. Integrating five core structural models—FAT, AEH, ASC, CRSM, and IRATA—it offers a coherent metaphysical and scientific scaffold for understanding how reality unfolds. Each layer is causally and structurally connected, offering not only a metaphysical explanation but one that aligns with observable cosmic phenomena and logical systems.
 
