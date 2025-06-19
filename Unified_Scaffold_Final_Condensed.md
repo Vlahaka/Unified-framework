@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15621710.svg)](https://doi.org/10.5281/zenodo.15621710)
 
 > Access the whole repository here
-[![View on GitHub](https://img.shields.io/badge/GitHub-Unified--framework-181717?logo=github&style=for-the-badge)](https://github.com/Vlahaka/Unified-framework)
+[![GITHUB](https://img.shields.io/badge/GITHUB-SCAFFOLD--THEORY-181717?logo=github&style=for-the-badge)](https://github.com/Vlahaka/Unified-framework)
 
 ---
 
