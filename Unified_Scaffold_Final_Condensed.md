@@ -335,15 +335,38 @@ Parallel discovery confirms the model:
 - The Birth of a Universe
 
 This paper shows how a universe could evolve from the moment of emergence.
-[![📄 Read&nbsp;the&nbsp;Full&nbsp;Paper&nbsp;Here](https://img.shields.io/badge/📄 Read the Full Paper Here-blueviolet?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/0b568561dbaaa4b9c2e668893539fb4d4de34f44/FAT_Birth_of_a_Universe.md)
+
+[![📄 Read the Full Paper Here](https://img.shields.io/static/v1?label=📄%20Read%20the%20Full%20Paper&message=Birth%20of%20a%20Universe&labelColor=4b5563&color=1e3a8a&style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/0b568561dbaaa4b9c2e668893539fb4d4de34f44/FAT_Birth_of_a_Universe.md)
 
 - The Photon viewed with a new lens
 
-By using IRATA, the division by 0, here is a reframing of the photon in section 2 of the paper.
-[![🔬 IRATA – Photon Application](https://img.shields.io/badge/🔬 IRATA–Photon_Application-red?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/0b568561dbaaa4b9c2e668893539fb4d4de34f44/IRATA_Photon_Application.md)
+By using IRATA, the division by 0, here is a reframing of the photon in section 2 of this paper.
 
+[![🔬 IRATA – Photon Application](https://img.shields.io/static/v1?label=🔬%20IRATA&message=Photon%20Application&color=1e293b&labelColor=7f1d1d&style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/0b568561dbaaa4b9c2e668893539fb4d4de34f44/IRATA_Photon_Application.md)
 
+- Framework relation map
 
+A map of how the pillars of the theory FAT,AEH, ASC AND CRSM connect to each other. Also comes with a glossary table.
+
+[![🕸️ Framework Relations](https://img.shields.io/static/v1?label=🕸️%20Framework&message=Relations&labelColor=4b5563&color=2563eb&style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/9a88840bc7ae6934b307fe59698ac1a8b7d2da07/Framework_relations.md)
+
+- Antimatter Latency in Matter
+
+This paper describes antimatter from the lens of FAT and IRATA, logically concluding of why antimatter is so rarely encountered in the universe.
+
+[![⚛️ Antimatter Latency](https://img.shields.io/static/v1?label=⚛️%20Antimatter&message=Latency%20%26%20Unified%20Field&labelColor=1f2937&color=7c3aed&style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/9a88840bc7ae6934b307fe59698ac1a8b7d2da07/antimatter_latency_unified.md)
+
+- A complete deep dive on Time
+
+This paper dives more deeply into how this theory envisions time and how it affects reality.
+
+[![⏳ Time – The Infinite Precondition](https://img.shields.io/static/v1?label=⏳%20Time&message=The%20Infinite%20Precondition&labelColor=374151&color=0e7490&style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/9a88840bc7ae6934b307fe59698ac1a8b7d2da07/time_the_infinite_precondition.md)
+
+- The Anchors of Galaxies
+
+This paper shows why gigantic black holes exist, from the perspective of this theory.
+
+[![🕳️ Black Holes as Anchors](https://img.shields.io/static/v1?label=🕳️%20Black%20Holes&message=as%20Anchors&labelColor=111827&color=b45309&style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/c8eaf19c16357891f13f5d4473cf85e1d614156d/black_holes_as_anchors.md)
 
 ---
 
