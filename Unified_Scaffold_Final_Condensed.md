@@ -24,7 +24,7 @@
 ---
 
 ## Abstract
-This paper presents an ontological framework that reconstructs the origin and evolution of reality, from the preconditions of existence to the emergence of complexity and identity. Integrating five core structural models—FAT, AEH, ASC, CRSM, and IRATA—it offers a coherent metaphysical and scientific scaffold for understanding how reality unfolds. Each layer is causally and structurally connected, offering not only a metaphysical explanation but one that aligns with observable cosmic phenomena and logical systems.
+The Scaffold Theory "From Darkness to Structure" presented herein is an explicitly philosophical theoretical framework, grounded in rigorous logic and structural reasoning. It provides an ontological scaffold that seeks to bridge fundamental gaps between metaphysics and observable cosmological phenomena. Its contribution lies in clarifying foundational philosophical questions about the origin, structure, and nature of reality, thereby offering coherent pathways for potential scientific and empirical engagement.
 
 ___
 ## Narrative: The Problem Before the Beginning
