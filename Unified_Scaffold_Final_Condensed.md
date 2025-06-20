@@ -369,10 +369,12 @@ Parallel discovery confirms the model:
 
  > 📌 **Parallel Scientific Validation**  
 > A remarkable, independently published finding by **Gaztañaga et al.** (*May 29, 2025*) provides compelling evidence that pure logical derivation, as employed in the **FAT** framework, can converge with conclusions reached by high-level scientific research.  
->  
-> Their proposal — _["A Universe inside a Black Hole: Cosmological Bounce from Collapse"](https://doi.org/10.1103/PhysRevD.111.103537)_ — directly aligns with the recursive emergence detailed in this paper.  
->  
-> This convergence demonstrates that **fundamental truths can be accessed** through the application of consistent logical principles, even outside traditional discovery methods. 
+ 
+Their proposal — _["A Universe inside a Black Hole: Cosmological Bounce from Collapse"](https://doi.org/10.1103/PhysRevD.111.103537)_ — aligns with the recursive emergence detailed in this paper.  
+
+> This convergence demonstrates that **fundamental truths can be accessed** through the application of consistent logical principles, even outside traditional discovery methods.
+
+*This philosophical framework does not aim to validate itself by citing the peer-reviewed work of Prof. Gaztañaga. As a metaphysical and philosophical theory, From Darkness to Structure does not require empirical validation in the scientific sense. Rather, it positions itself in parallel to the referenced cosmological paper, emphasizing a structural convergence that arises independently. This alignment is not presented as proof, but as a demonstration of how philosophical reasoning can intersect with scientific insight through logically consistent structures.*
 
 ---
 
