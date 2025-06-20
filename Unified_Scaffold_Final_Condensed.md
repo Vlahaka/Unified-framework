@@ -274,6 +274,7 @@ This analogy illustrates a deeper principle: perfect stillness does not imply th
 
 ### 3.2 Entropy
 - **Definition**: The outcome of distinction. The measure of distinction within a system—how far it has moved from perfect symmetry. In this framework, entropy begins the moment awareness distinguishes “self” from “other.” It is not disorder, but *difference*—the structural ripple caused by identity recognizing contrast.
+- **Gravity** : Emerges as a consequence of asymmetry. As awareness introduces distinction and entropy rises, matter becomes unevenly distributed across the plane. This imbalance in symmetry generates curvature, which manifests as gravity. In this framework, gravity is not a fundamental force, but a structural expression of uneven entropy across space.
 - **Origin**: Begins with awareness perceiving contrast.
 - **Role**: Drives motion, change, and complexity.
 
