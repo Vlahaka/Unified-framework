@@ -253,7 +253,7 @@ This analogy illustrates a deeper principle: perfect stillness does not imply th
 
 > ✨️**Visual Emergence Diagram**✨️   
 > ![Division by Zero Emergence](division_by_zero_emergence.jpg)  
-> This diagram illustrates the ontological equation `x ÷ 0 = x!`, central to the Unified Framework.  
+> This diagram illustrates the ontological equation `x ÷ 0 = x!`, central to the theory.  
 > - The **yellow arc** represents **Time as a field**, curving from ∞ through 0 to reach the present point `x`.  
 > - The **shaded semicircle** symbolizes the activated structure—the emergence of complexity when Time touches perfect symmetry (0).  
 > - `x` is our present moment  
