@@ -251,17 +251,14 @@ This analogy illustrates a deeper principle: perfect stillness does not imply th
   - Matter to itself
   - Awareness to Time
 
-> 📐 **Visual Interpretation of Emergence**
->
+> ✨️**Visual Emergence Diagram**✨️   
+> ![Division by Zero Emergence](division_by_zero_emergence.jpg)  
 > This diagram illustrates the ontological equation `x ÷ 0 = x!`, central to the Unified Framework.  
-> The yellow arc represents **Time as a field**, curving from ∞ through 0 to reach the present point `x`.  
-> The shaded area symbolizes the activated structure—the emergence of complexity when Time touches perfect symmetry (0).  
->
-> - **x** is our present moment  
-> - **0** is the 2D void (perfect symmetry)  
-> - **i** is the curvature of Time as an ontological bridge  
->
-> [🖼️ View full image](https://github.com/Vlahaka/Unified-framework/blob/57d931c8fe4abea87b12aee09ad006789eb3dac8/division_by_zero_emergence.jpg)
+> - The **yellow arc** represents **Time as a field**, curving from ∞ through 0 to reach the present point `x`.  
+> - The **shaded semicircle** symbolizes the activated structure—the emergence of complexity when Time touches perfect symmetry (0).  
+> - `x` is our present moment  
+> - `0` is the 2D void (perfect symmetry)  
+> - `i` is the curvature of Time as an ontological bridge
  
 - **Summary**: `Time touches 0 → Awareness bridges → Symmetry breaks.`
 
