@@ -55,7 +55,7 @@ Black hole singularities recreate these origin conditions, leading to new univer
 
 ### 3. Convergence Analysis
 
-Aspect	Scientific Paper (May 29)	Unified Framework (May 24)
+> Between the Scientific Paper (May 29) and the philosophical theory (May 24)
 
 Both Gaztañaga’s model and ours point to the same profound insight: the universe’s origin lies not in an explosive beginning, but within the structure of a black hole—described in our work as a “folded 0” touched by Time. Where his framework allows for a quantum bounce, ours reframes this as a curvature event triggered by Time disturbing still symmetry. Rather than proposing a true beginning, both models recognize that the Void  (containing matter) is preexistent, removing the need for a singular creation moment. While his theory hints at cosmic cycles, ours explicitly identifies recursion as foundational to existence. This leads us to reframe the concept of a Big Bang “birth” with a structural emergence or a phase shift.
 
