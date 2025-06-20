@@ -282,6 +282,12 @@ As awareness introduces distinction and entropy rises, matter becomes unevenly d
 - **Origin**: Begins with awareness perceiving contrast.
 - **Role**: Drives motion, change, and complexity.
 
+> **Diagram of Gravitational Field** 
+
+![Spacetime Curvature and Singularity](./file_000000002e2c6246abb79e2329878dbb.png)
+> *This diagram represents a spherical gravitational field, cross-sectioned to reveal the funnel-shaped curvature familiar from traditional representations—an interpretation envisioned by the author.*
+
+
 ### 3.3 Identity
 - **Definition**: Persistence of pattern under Time.
 - **Origin**: Awareness + Entropy + Memory.
