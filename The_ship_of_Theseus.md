@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/Galley%20ship%20at%20night.png" alt="Galley Ship at Night" width="80%">
+</p>
+
 # Deep dive:<br>**The Ship of Theseus** 
 
 ## *Am I me?*
