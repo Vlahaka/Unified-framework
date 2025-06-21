@@ -460,6 +460,12 @@ This paper shows why gigantic black holes exist, from the perspective of this th
 
 [![🕳️ Black Holes as Anchors](https://img.shields.io/static/v1?label=🕳️%20Black%20Holes&message=as%20Anchors&labelColor=111827&color=b45309&style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/c8eaf19c16357891f13f5d4473cf85e1d614156d/black_holes_as_anchors.md)
 
+- Deep Dive: The Ship of Theseus
+
+In this companion essay, we examine the ancient thought experiment known as The Ship of Theseus. Through the lens of our structural theory, we revisit the classic paradox—asking not what parts make the ship, but what deeper structure holds its identity intact across change.
+
+[![📜 Read: The Ship of Theseus](https://img.shields.io/badge/📜%20Read-The%20Ship%20of%20Theseus-blue?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/d09bef0fdd3411138d4df2937b72d4a1f6a821fc/The_ship_of_Theseus.md)
+
 ---
 
 ## 8. Summary: The Emergence Chain
