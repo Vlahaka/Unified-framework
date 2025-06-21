@@ -44,9 +44,32 @@ From this point of view, identity may not lie in the material substance only, bu
 
 > In our philosophical work, we extend this idea of structure further:
 
-Structure is not only physical—it is relational. It is the stable pattern of connections across time and space that defines an entity. Once this pattern reaches a certain threshold of cohesion, we perceive it as a stable identity.
+- Structure is not only physical—it is relational.
 
-So, when the Ship of Theseus was first completed, its final form embodied a unique structural identity. That structure, once established, persists—regardless of whether its parts are replaced.
+It is the stable pattern of connections across time and space that defines an entity. Once this pattern reaches a certain threshold of cohesion, we perceive it as a stable identity.
 
-Replacing planks does not erase the identity of the ship, as long as the relational configuration remains intact. The assembled "original" planks, although authentic in material, do not reconstruct the same entity—because they do not maintain the same structural continuity.
+- So, when the Ship of Theseus was first completed, its final form embodied a unique structural identity.
+
+> That structure, once established, persists—regardless of whether its parts are replaced.
+
+- Replacing planks does not erase the identity of the ship, as long as the relational configuration remains intact.
+
+> The assembled "original" planks, although authentic in material, do not reconstruct the same entity, because they do not maintain the same structural continuity.
+
+---
+
+### **Defining Identity – Within the theory "From Darkness to Structure"**
+
+In conventional terms, identity is often tied to continuity of matter, memory, or name. But within *From Darkness to Structure*, **identity** is understood as the **persistent structural coherence** that arises once distinction is made.
+
+It is not the material that defines identity, but the **configuration**—the pattern that persists even as individual components change. Identity begins the moment awareness distinguishes “I am me, the rest is not me,” and it stabilizes as a recursive structure over time.
+
+Thus, identity in our framework is:
+
+- **Structural** – based on enduring organization, not substance  
+- **Relational** – defined by contrast and distinction  
+- **Recursive** – maintained by repeated connection across time  
+- **Finite** – it exists within bounded systems, yet can evolve
+
+In this view, the Ship of Theseus remains “itself” as long as its structural pattern remains intact—even if no original material persists. The same applies to personal identity, ecosystems, and even civilizations.
 
