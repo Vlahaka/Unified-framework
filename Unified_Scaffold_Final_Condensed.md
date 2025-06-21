@@ -424,43 +424,43 @@ Their proposal — _["A Universe inside a Black Hole: Cosmological Bounce from C
 
 > The Scaffold Theory is not a single model, but a recursive framework composed of interrelated parts. The following papers expand the core structure into new domains—physical, cognitive, ontological—demonstrating how emergence, recursion, and structural collapse give rise to all known complexity.
 
-- The Birth of a Universe
+- **The Birth of a Universe**
 
 This paper shows how a universe could evolve from the moment of emergence.
 
 [![📄 Read the Full Paper Here](https://img.shields.io/static/v1?label=📄%20Read%20the%20Full%20Paper&message=Birth%20of%20a%20Universe&labelColor=4b5563&color=1e3a8a&style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/0b568561dbaaa4b9c2e668893539fb4d4de34f44/FAT_Birth_of_a_Universe.md)
 
-- The Photon viewed with a new lens
+- **The Photon viewed with new lens**
 
 By using IRATA, the division by 0, here is a reframing of the photon in section 2 of this paper.
 
 [![🔬 IRATA – Photon Application](https://img.shields.io/static/v1?label=🔬%20IRATA&message=Photon%20Application&color=1e293b&labelColor=7f1d1d&style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/0b568561dbaaa4b9c2e668893539fb4d4de34f44/IRATA_Photon_Application.md)
 
-- Framework relation map
+- **Framework relation map**
 
 A map of how the pillars of the theory FAT,AEH, ASC AND CRSM connect to each other. Also comes with a glossary table.
 
 [![🕸️ Framework Relations](https://img.shields.io/static/v1?label=🕸️%20Framework&message=Relations&labelColor=4b5563&color=2563eb&style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/9a88840bc7ae6934b307fe59698ac1a8b7d2da07/Framework_relations.md)
 
-- Antimatter Latency in Matter
+- **Antimatter Latency in Matter**
 
 This paper describes antimatter from the lens of FAT and IRATA, logically concluding of why antimatter is so rarely encountered in the universe.
 
 [![⚛️ Antimatter Latency](https://img.shields.io/static/v1?label=⚛️%20Antimatter&message=Latency%20%26%20Unified%20Field&labelColor=1f2937&color=7c3aed&style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/9a88840bc7ae6934b307fe59698ac1a8b7d2da07/antimatter_latency_unified.md)
 
-- A complete deep dive on Time
+- **A complete deep dive on Time**
 
 This paper dives more deeply into how this theory envisions time and how it affects reality.
 
 [![⏳ Time – The Infinite Precondition](https://img.shields.io/static/v1?label=⏳%20Time&message=The%20Infinite%20Precondition&labelColor=374151&color=0e7490&style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/9a88840bc7ae6934b307fe59698ac1a8b7d2da07/time_the_infinite_precondition.md)
 
-- The Anchors of Galaxies
+- **The Anchors of Galaxies**
 
 This paper shows why gigantic black holes exist, from the perspective of this theory.
 
 [![🕳️ Black Holes as Anchors](https://img.shields.io/static/v1?label=🕳️%20Black%20Holes&message=as%20Anchors&labelColor=111827&color=b45309&style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/c8eaf19c16357891f13f5d4473cf85e1d614156d/black_holes_as_anchors.md)
 
-- Deep Dive: The Ship of Theseus
+- **Deep Dive: The Ship of Theseus**
 
 In this companion essay, we examine the ancient thought experiment known as The Ship of Theseus. Through the lens of our structural theory, we revisit the classic paradox—asking not what parts make the ship, but what deeper structure holds its identity intact across change.
 
