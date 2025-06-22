@@ -471,7 +471,7 @@ In this companion essay, we examine the ancient thought experiment known as The 
 Explore how the **Heap (Sorites) Paradox** is reinterpreted through the lens of the philosophical theoretical framework.  
 This essay examines the emergence of identity through structural accumulation, from a single grain of sand to the formation of an ontological unit.
 
-[![Read the Sorites Paradox Essay](https://img.shields.io/badge/Read%20Here-Sorites%20Paradox%20Essay-blue?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/027d3495555bbeb0a11ca90e5c2061dd5b9ca7db/The_heap_problem.md)
+[![Read Here — Sorites Paradox Essay](https://img.shields.io/badge/READ%20HERE-SORITES%20PARADOX%20ESSAY-blue?style=for-the-badge)](./The_heap_problem.md)
 
 ---
 
