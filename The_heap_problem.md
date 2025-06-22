@@ -1,3 +1,7 @@
+![The Heap of Sand](images/The%20heap%20of%20sand.png)
+
+---
+
 # **The Heap Problem - The sorites Paradox**
 
 ---
