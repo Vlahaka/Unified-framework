@@ -64,6 +64,17 @@ Using the philosophical theoretical framework "From Darkness to Structure", we p
 >
 > ~500 grains: Identity Field (the heap as an emergent unit)
 
+**Why 1 Grain = Distinction?**
+
+We begin with 1 grain, because even a single, localized point of matter within a field of perfect symmetry creates a break in that symmetry. In the philosophical theoretical framework "From Darkness to Structure", which builds on the metaphysical structure of FAT, the void (0) is defined as a 2D plane filled with evenly distributed, motionless matter, *a perfectly symmetrical state*.
+
+Placing a single grain outside or in deviation from that perfect distribution is the first act of distinction. It is not a rejection of 0, but a departure from symmetry. This act marks the birth of structure: a difference that can now be observed, measured, or built upon.
+
+This one grain does not possess identity, but it does possess structural uniqueness—a point of asymmetry. That is why we say:
+
+> One grain = Distinction.
+From here, structure begins to unfold.
+
 
 The paradox softens once we recognize that identity does not reside in any single grain, but begins with distinction, each grain marking a difference. As these distinctions accumulate, they form entropic relationships and recursive spatial patterns. Under the influence of time, these patterns give rise to structure and from structure, identity emerges.
 
