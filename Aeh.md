@@ -1,4 +1,36 @@
-AEH – Accretion Expansion Hypothesis
+# AEH – Accretion Expansion Hypothesis
+
+# Accretion Expansion Hypothesis (AEH) – Original Draft (Outdated)
+
+> ⚠️ **Notice – This Version Is Outdated**  
+> As of June 23, 2025, new scientific insight (specifically, that **black holes grow over time by accumulating matter and spacetime**) has made parts of this original AEH framework inconsistent with known physics.
+
+> The updated version of AEH corrects this and now integrates **dark energy** as the effect of continuous accretion by the black hole that birthed our universe.  
+> Please refer to the corrected version here: [AEH v4 – Updated](./AEH_v4_Updated.md)
+
+---
+
+## AEH – Updated version (For Historical Record)
+
+1. The universe originates from a black hole singularity in a parent universe.
+2. The singularity forms a 2D zero (0) state where perfect symmetry is achieved.
+3. Time curves into the singularity and touches the 0, initiating awareness and entropy (per FAT).
+4. The black hole continues to absorb matter and spacetime from the parent universe.
+5. This absorption feeds the internal curvature (our universe), causing ongoing expansion.
+6. Dark energy is redefined as the effect of continuous matter/time transfer into the 0, expanding the internal universe.
+7. The universe has no fixed expansion center because the growth is driven by curvature from the black hole, thus the expansion of the universe does not have a fixed source.
+
+---
+
+## Correction Summary
+
+- The **original AEH** did not fully account for the **continued growth of black holes** after their formation.
+- This led to **logical tension with dark energy**, initially framed as an illusion or misinterpretation.
+- The **updated AEH** recognizes that **black hole growth = continued feeding of the 0**, and that **dark energy is not contradictory**, but a *direct structural effect* of this process.
+
+---
+
+> This version is preserved for transparency, showing the evolution of the framework through updated understanding.
 
 Author: Vlad Ionut Daniel
 Part of the Unified Framework
