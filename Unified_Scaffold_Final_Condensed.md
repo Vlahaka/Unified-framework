@@ -440,7 +440,7 @@ By using IRATA, the division by 0, here is a reframing of the photon in section 
 
 A map of how the pillars of the theory FAT,AEH, ASC AND CRSM connect to each other. Also comes with a glossary table.
 
-[![🕸️ Framework Relations](https://img.shields.io/static/v1?label=🕸️%20Framework&message=Relations&labelColor=4b5563&color=2563eb&style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/9a88840bc7ae6934b307fe59698ac1a8b7d2da07/Framework_relations.md)
+[![Framework Relations](https://img.shields.io/badge/📐%20Framework-Relations-blueviolet)](https://github.com/Vlahaka/Unified-framework/blob/main/Framework_relations.md)
 
 - **Antimatter Latency in Matter**
 
