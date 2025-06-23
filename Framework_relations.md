@@ -85,10 +85,17 @@ Here is how each theory maps onto known science:
 - **Quantum Field Theory**: Vacuum fields suggest latent structure with spontaneous activation—parallel to dormant matter in the void.
 - **Singularities in Black Holes**: Points of maximum symmetry and zero entropy—identical to FAT’s void.
 
-### 🔹 AEH (Accretion Expansion Hypothesis)
-- **Redshift Observations**: AEH replaces expansion with increasing gravitational curvature as a source of redshift.
-- **Gravitational Lensing**: Confirms light bends deeper through spacetime wells.
-- **Galactic Clustering**: Matter aggregates into structures, leaving vast voids—consistent with AEH’s collapse logic.
+###🔷 **AEH (Accretion Expansion Hypothesis)**
+
+- **Expansion Rooted in Structure**: AEH no longer opposes dark energy. Instead, it explains it structurally—as the internal stretching of the universe caused by continuous feeding of matter and spacetime from the parent black hole.
+
+- **Black Hole Growth = Universal Growth**: The more the parent black hole accumulates matter, the more the internal 0 (our universe) grows. This curvature is experienced internally as expansion.
+
+- **Dark Energy Reframed**: No longer a mystery force—dark energy is the **visible effect of external accretion**. It is not anti-gravity, but structural tension from the feeding source.
+
+- **Lifecycle Prediction**: Once the parent black hole evaporates via Hawking radiation, accretion ends. The universe stops growing. It continues to exist, but will structurally stabilize or decay depending on internal entropy.
+
+- **Compatibility with Observations**: AEH accepts all observational data—redshift, Hubble flow, galactic clustering—as valid. It **adds a layer underneath**, not against it.
 
 ### 🔹 ASC (Stabilized Consciousness)
 - **Neuroscience of Memory**: Shows recursive loops in brain activity for identity stabilization.
