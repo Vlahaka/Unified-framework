@@ -35,3 +35,21 @@ As more matter enters, the 0 grows internally. This growth creates the appearanc
 > The universe expands not from an initial explosion, but through continuous intake of mass-energy from a parent black hole.  
 > This process defines dark energy as the **curvature growth** of the internal universe.  
 > AEH now frames the cosmos as **a growing child**, not a one-time event.
+
+
+### 🔚 Terminal Phase: Black Hole Decay and the End of External Growth
+
+As predicted by Hawking radiation, the parent black hole from which our universe originates will eventually decay. This decay marks a critical structural transition:
+
+- **Causal Decoupling**: Once the black hole decays, the channel through which matter and spacetime curved into our universe is severed.
+- **End of Growth**: No further intake from the parent universe means the internal universe stops expanding. The structural engine of curvature feeding is gone.
+- **Stable Continuation**: Despite the cessation of growth, the internal universe persists with its own memory, energy, and entropy balance. Stars continue to burn, galaxies evolve, and consciousness may still exist.
+- **Final Trajectory**: Over immense time:
+  - Entropy rises toward maximum.
+  - Energy disperses.
+  - Structure degrades.
+  - The universe reaches thermal equilibrium (heat death) or collapses depending on internal asymmetries.
+
+> The black hole’s death is not the end of the universe—  
+> it is the end of its **external nourishment**.  
+> From that moment, the universe is **on its own**, moving toward structural stillness.
