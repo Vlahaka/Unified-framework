@@ -1,7 +1,7 @@
 
 # Accretion Expansion Hypothesis
 
-According to goolgle:
+According to Google:
 
 "do black holes grow over time?"
 
