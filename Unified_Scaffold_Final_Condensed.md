@@ -323,9 +323,9 @@ Explains how Time, Matter, and Awareness form the first distinction, initiating 
 [![Read the full FAT paper](https://img.shields.io/badge/📄%20Full%20FAT%20Paper-Click%20Here-blue?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/main/Fat.md)
 
 ### AEH – Accretion Expansion Hypothesis
-Replaces inflation/redshift-based expansion. Cosmic acceleration is reframed as an illusion caused by deepening gravitational wells from matter collapse.
+Accretion Expansion Hypothesis (AEH)  Updated model explaining universal growth as a result of continuous matter inflow into the originating black hole, reframing dark energy as expansion through structural feeding.
 
-[![Read the full AEH paper](https://img.shields.io/badge/📄%20Full%20AEH%20Paper-Click%20Here-purple?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/main/Aeh.md)
+[![AEH Updated – Dark Energy Explained](https://img.shields.io/badge/AEH_Updated-Dark_Energy_Explained-blueviolet?style=for-the-badge&logo=cosmosdb)](https://github.com/Vlahaka/Unified-framework/blob/main/AEH_v4_Updated.md)
 
 ### ASC – Architecture of Stabilized Consciousness
 Describes how identity stabilizes through recursion and memory. Identity is preserved through time-bound relation loops.
