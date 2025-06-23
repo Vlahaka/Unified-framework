@@ -3,11 +3,11 @@
 
 According to Google:
 
-"do black holes grow over time?"
+> "do black holes grow over time?"
 
 "Yes, black holes can grow over time. They grow by accreting matter from their surroundings and by merging with other black holes. This means they essentially "eat" stars, gas clouds, dust, and even other black holes that get too close, increasing their mass and thus their size."
 
-"is the universe expanding from a fixed point?"
+> "is the universe expanding from a fixed point?"
 
 "No, the universe is not expanding from a fixed point. It's expanding everywhere at once. Imagine a balloon being inflated; every point on the balloon's surface moves away from every other point, and there's no center point on the surface from which the expansion originates. Similarly, in our universe, all points are moving away from each other as space itself expands. "
 
