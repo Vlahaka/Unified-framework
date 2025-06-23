@@ -17,7 +17,7 @@ This document maps the internal relationships between all components of the Unif
 
 ## 2. AEH – Accretion Expansion Hypothesis
 
-**Role**: ## 🪐 2. AEH – Accretion Expansion Hypothesis
+**Role**: 🪐 2. AEH – Accretion Expansion Hypothesis
 
 **Role**  
 Reinterprets redshift and the Hubble Tension by proposing that **our universe expands due to continuous inflow of matter, space, and time** from the **parent black hole** in which it originated. This resolves the mystery of dark energy by linking it to the **ongoing growth of the black hole**, rather than invoking mysterious inflationary forces. Structure emerges through **recursive feeding**, not explosive inflation.
