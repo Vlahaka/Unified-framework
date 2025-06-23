@@ -1,5 +1,5 @@
 
-# AEH v4 – Black Hole Feed Hypothesis
+# Accretion Expansion Hypothesis
 
 ## Origin:
 The universe originates from a black hole singularity in a parent universe. The singularity forms a **2D symmetry state (0)**, as defined in the Foundational Asymmetry Theory (FAT). When time curves into this state, awareness and entropy emerge.
