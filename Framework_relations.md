@@ -83,7 +83,7 @@ Here is how each theory maps onto known science:
 - **Quantum Field Theory**: Vacuum fields suggest latent structure with spontaneous activation—parallel to dormant matter in the void.
 - **Singularities in Black Holes**: Points of maximum symmetry and zero entropy—identical to FAT’s void.
 
-###🔷 **AEH (Accretion Expansion Hypothesis)**
+### 🔷 **AEH (Accretion Expansion Hypothesis)**
 
 - **Expansion Rooted in Structure**: AEH no longer opposes dark energy. Instead, it explains it structurally—as the internal stretching of the universe caused by continuous feeding of matter and spacetime from the parent black hole.
 
