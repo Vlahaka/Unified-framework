@@ -17,11 +17,17 @@ This document maps the internal relationships between all components of the Unif
 
 ## 2. AEH – Accretion Expansion Hypothesis
 
-**Role**: Reinterprets redshift and the Hubble Tension through gravitational collapse, not expansion. Structure arises via accretion, not inflation.
+**Role**: ## 🪐 2. AEH – Accretion Expansion Hypothesis
 
-**Feeds Into**:
-- **ASC** and **CRSM**, as it builds the stage on which identity stabilizes and collapse can occur.
+**Role**  
+Reinterprets redshift and the Hubble Tension by proposing that **our universe expands due to continuous inflow of matter, space, and time** from the **parent black hole** in which it originated. This resolves the mystery of dark energy by linking it to the **ongoing growth of the black hole**, rather than invoking mysterious inflationary forces. Structure emerges through **recursive feeding**, not explosive inflation.
 
+**Feeds Into**  
+- **ASC** – by supplying a persistent spacetime field in which identity can stabilize.  
+- **CRSM** – as it defines the long-term boundary conditions that determine how collapse unfolds or halts.
+
+> **Update Note:**  
+> This version replaces the original AEH formulation. Previous language described expansion solely through initial curvature. The updated AEH accounts for **black hole growth**, which sustains and drives expansion—bringing it fully in line with observed dark energy effects while remaining structurally grounded in FAT.
 ---
 
 ## 3. ASC – Architecture of Stabilized Consciousness
