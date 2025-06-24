@@ -336,7 +336,7 @@ Therefore:
 > **Diagram of Gravitational Field** 
 
 ![Spacetime Curvature and Singularity](./file_000000002e2c6246abb79e2329878dbb.png)
-> *This diagram represents a spherical gravitational field, cross-sectioned to reveal the funnel-shaped curvature familiar from traditional representations—an interpretation envisioned by the author.*
+> *This diagram represents a stars spherical gravitational field, cross-sectioned to reveal the funnel-shaped curvature familiar from traditional representations—an interpretation envisioned by the author.*
 
 
 ### 3.3 Identity
