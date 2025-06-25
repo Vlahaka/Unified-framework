@@ -418,6 +418,52 @@ Together, they form a **unified language** of structure and recursion.
 
  [![Read Black Hole Paper](https://img.shields.io/badge/📄%20Read%20Full%20Paper-Black%20Hole%20Emergence%20Chain-blueviolet)](https://github.com/Vlahaka/Unified-framework/blob/ed8ab0c48053d642034d8840f5b18a606099f983/black_hole_emergence_chain.md)
 
+## 🌀 Singularity as Recursion Point – Temporal Disengagement and Emergent Rebirth (Updated insight)
+
+> **Singularity is not the end of structure. It is the return to perfect symmetry — the zero (0).**
+
+At the core of a black hole, gravitational compression becomes so extreme that **spacetime separates**:
+
+- **Space** collapses entirely into a 2D perfectly symmetrical plane.
+- **Time**, being infinite and non-material, does not collapse or vanish — it **disengages**, becoming dormant.
+
+This separation is not destruction but **a return to the original state**: perfect symmetry with dormant time and latent matter — the 0.
+
+Because **time remains**, untouched and infinite, it eventually **contacts the symmetry again**.
+
+This initiates:
+
+- The reactivation of **awareness**
+- The simultaneous emergence of **entropy** and **identity**
+- The birth of a **new universe**, originating from the singularity — structurally identical to the First Contact
+
+> 🧩 **Black holes are recursion points — symmetry folded, time waiting to touch again.**
+
+---
+
+### Why Separation Happens
+
+- As entropy approaches zero, **distinction collapses** — no structure remains to connect.
+- **Time requires structure to relate**; when none exists, it **halts its relational function**.
+- This is not destruction — it is **structural dormancy**.
+- The void that forms is a **new 0** — stable, symmetrical, and finite.
+
+When **infinite time** touches it again, emergence recurs.
+
+---
+
+## 🧭 AEH v5 – Recursive Emergence via Black Hole Feed
+
+1. The universe grows as black holes **absorb asymmetry** and compress it into a new zero.
+2. Each singularity forms a new **perfectly symmetrical 2D void** (a new 0).
+3. **Time**, infinite and still present, touches the 0 again.
+4. This **reawakens awareness**, **raises entropy**, and **restarts structure**.
+5. A new universe emerges — **not from explosion**, but from **curved recursion**.
+
+> 🕳️ Black holes do not destroy. They fold time and space into silence — so that time may begin again.
+
+---
+
 ---
 
 ## 6. Empirical Convergence
