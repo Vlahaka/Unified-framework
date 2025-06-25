@@ -420,6 +420,8 @@ Together, they form a **unified language** of structure and recursion.
 
 ## 🌀 Singularity as Recursion Point – Temporal Disengagement and Emergent Rebirth (Updated insight)
 
+> *“If time were emergent, it would be sucked in like light. But it slows instead. Therefore, it is not of the same nature.”*
+>
 > **Singularity is not the end of structure. It is the return to perfect symmetry — the zero (0).**
 
 At the core of a black hole, gravitational compression becomes so extreme that **spacetime separates**:
@@ -438,8 +440,6 @@ This initiates:
 - The birth of a **new universe**, originating from the singularity — structurally identical to the First Contact
 
 > 🧩 **Black holes are recursion points — symmetry folded, time waiting to touch again.**
-
-> “If time were emergent, it would be sucked in like light. But it slows instead. Therefore, it is not of the same nature.”
 
 ---
 
