@@ -439,6 +439,8 @@ This initiates:
 
 > 🧩 **Black holes are recursion points — symmetry folded, time waiting to touch again.**
 
+> “If time were emergent, it would be sucked in like light. But it slows instead. Therefore, it is not of the same nature.”
+
 ---
 
 ### Why Separation Happens
