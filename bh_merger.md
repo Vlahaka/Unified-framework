@@ -45,7 +45,7 @@ Thus, the “dolls” do not shrink — they are only perceived to shrink from t
 
 The Cosmic Microwave Background (CMB) is often described as the thermal remnant of the Big Bang — the cooled radiation from a hot, dense early universe, now stretched across the cosmos. But what if this interpretation is incomplete?
 
-In the Scaffold model, where our universe is born from a black hole in a parent universe, we propose a bold reinterpretation:
+In the Scaffold model "From Darkness to Structure", where the universe is born from a black hole in a parent universe, we propose a bold reinterpretation:
 
 > The CMB is not a remnant from our own origin, but a residual echo of the light trapped around the event horizon of the parent black hole.
 
@@ -111,6 +111,8 @@ The echoes detected seconds **after** the merger may represent:
 * **Time re-engaging** as the new singularity forms the next zero.
 
 This may explain the **delayed signals**—the post-merger echoes—as **the structural reset period** of time's relation to space and matter.
+
+Using the logic lens of the scaffold philosophical framework "From Darkness to Structure", we deduce that these **echoes** should also be visible just before the merger. 
 
 ---
 
