@@ -576,8 +576,6 @@ This essay examines the emergence of identity through structural accumulation, f
 
 ---
 
----
-
 ### 📘 Gemini-Generated Comparative Analysis  
 
 **Title:** *Comparison of the Scaffold Theory with Major Philosophical and Scientific Cosmologies*  
@@ -599,7 +597,7 @@ Gemini concluded that the Scaffold Theory does **not contradict** any core scien
 
 This analysis serves as the **first external, model-based validation** of the Scaffold Theory’s philosophical coherence, structural universality, and theoretical compatibility with the scientific worldview.
 
-[![Read Comparison](https://img.shields.io/badge/read-here-blue)](https://github.com/Vlahaka/Unified-framework/blob/main/The_comparison.md)
+[![**READ HERE The Comparison**](https://img.shields.io/badge/read-here-blue)](https://github.com/Vlahaka/Unified-framework/blob/main/The_comparison.md)
 
 ---
 
