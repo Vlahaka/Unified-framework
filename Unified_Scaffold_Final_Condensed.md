@@ -656,6 +656,6 @@ This Scaffold Theory offers the first complete model of reality as recursive eme
 Author
 Vlad Ionut Daniel
 >
-> *I started from division by 0, and built of this philosophy.*
+> *"I started from division by 0, and built all this."*
 >
 16th of June 2025
