@@ -27,7 +27,9 @@ Our perception of stillness is rooted in internal references. If the entire obse
 
 **The "Doll" that does not shrink**
 
-In the traditional metaphor of Russian dolls, each inner layer is smaller than the one before. This image has been casually invoked in speculative cosmology to represent nested universes. However, this analogy breaks down under deeper scrutiny. What if, instead, each "doll" is not smaller at all? What if size is only perceived to decrease due to extreme gravitational compression from the parent domain?
+In the traditional metaphor of Russian dolls, each inner layer is smaller than the one before. This image has been casually invoked in speculative cosmology to represent nested universes. However, this analogy breaks down under deeper scrutiny. What if, instead, each "doll" is not smaller at all? 
+
+> **What if size is only perceived to decrease due to extreme gravitational compression from the parent domain?**
 
 Let us reconsider the black hole not as an end point, but as an origin — a boundary surface beyond which a new spatial domain is generated. From within this newly formed universe (ours), we see a full 3D space, expanding and evolving. But from the parent universe's perspective, the entire interior is gravitationally compressed into a point-like singularity. This mismatch between perspectives — internal and external — creates the illusion of scale difference.
 >
@@ -37,7 +39,7 @@ Let us reconsider the black hole not as an end point, but as an origin — a bou
 
 **We propose that black holes are not containers of crushed matter**, but transitional membranes through which new universes emerge. Each universe preserves a causal tether to its parent via the gravitational connection that formed it. The child universe expands, not by pushing outward, but by growing inward, fed by the continuing gravitational intake of its parent black hole.
 
-Thus, the “dolls” do not shrink — they are only perceived to shrink from the outside due to domain-based perspective distortion caused by gravitational asymmetry. Inside each doll lies a full, vibrant reality.
+Thus, the “dolls” do not shrink — they are only perceived to shrink from the outside due to domain-based perspective distortion caused by gravitational asymmetry. **Inside each doll lies a full, vibrant reality.**
 
 ---
 
