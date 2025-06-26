@@ -21,9 +21,23 @@ From the Scaffold perspective, each universe is born inside a black hole from a 
 
 Our perception of stillness is rooted in internal references. If the entire observable universe — galaxies, CMB, space-time itself — moves through the parent universe via the motion of the black hole that contains it, that motion becomes undetectable from within. This is not relativistic stillness, but containment-based perceptual isolation.
 
-> "Imagine we are inside a vast cave, one so completely dark that no light, no reflection, no boundary can be seen. In this cave, we begin to move, using our feet to walk. But since there is nothing to see, nothing to hear, and no point of reference, we cannot tell whether we are truly moving or standing still. From our perspective, we are frozen in place. But objectively, we are in motion.
+> *"Imagine we are inside a vast cave, one so completely dark that no light, no reflection, no boundary can be seen. In this cave, we begin to move, using our feet to walk. But since there is nothing to see, nothing to hear, and no point of reference, we cannot tell whether we are truly moving or standing still. From our perspective, we are frozen in place. But objectively, we are in motion.*
 >
-> This is the paradox of motion without contrast, a state where existence travels, but awareness cannot register the travel because there is no structure to compare against. This is the state of a universe enclosed within a black hole: it can move, carried by the parent black hole through the larger universe, but it cannot perceive this motion. Why? Because there is no structure outside of it visible to the beings within.”
+> *This is the paradox of motion without contrast, a state where existence travels, but awareness cannot register the travel because there is no structure to compare against. This is the state of a universe enclosed within a black hole: it can move, carried by the parent black hole through the larger universe, but it cannot perceive this motion. Why? Because there is no structure outside of it visible to the beings within.”*
+
+**The "Doll" that does not shrink**
+
+In the traditional metaphor of Russian dolls, each inner layer is smaller than the one before. This image has been casually invoked in speculative cosmology to represent nested universes. However, this analogy breaks down under deeper scrutiny. What if, instead, each "doll" is not smaller at all? What if size is only perceived to decrease due to extreme gravitational compression from the parent domain?
+
+Let us reconsider the black hole not as an end point, but as an origin — a boundary surface beyond which a new spatial domain is generated. From within this newly formed universe (ours), we see a full 3D space, expanding and evolving. But from the parent universe's perspective, the entire interior is gravitationally compressed into a point-like singularity. This mismatch between perspectives — internal and external — creates the illusion of scale difference.
+>
+> From the outside, the child universe appears infinitely small and dense.
+>
+> From the inside, it is vast, balanced, and governed by emergent laws of space, time, and entropy.
+
+**We propose that black holes are not containers of crushed matter**, but transitional membranes through which new universes emerge. Each universe preserves a causal tether to its parent via the gravitational connection that formed it. The child universe expands, not by pushing outward, but by growing inward, fed by the continuing gravitational intake of its parent black hole.
+
+Thus, the “dolls” do not shrink — they are only perceived to shrink from the outside due to domain-based perspective distortion caused by gravitational asymmetry. Inside each doll lies a full, vibrant reality.
 
 ---
 
