@@ -41,6 +41,37 @@ Let us reconsider the black hole not as an end point, but as an origin — a bou
 
 Thus, the “dolls” do not shrink — they are only perceived to shrink from the outside due to domain-based perspective distortion caused by gravitational asymmetry. **Inside each doll lies a full, vibrant reality.**
 
+**The CMB: A Glimpse of the Parent’s Halo**
+
+The Cosmic Microwave Background (CMB) is often described as the thermal remnant of the Big Bang — the cooled radiation from a hot, dense early universe, now stretched across the cosmos. But what if this interpretation is incomplete?
+
+In the Scaffold model, where our universe is born from a black hole in a parent universe, we propose a bold reinterpretation:
+
+> The CMB is not a remnant from our own origin, but a residual echo of the light trapped around the event horizon of the parent black hole.
+
+**Here’s the logic:**
+
+Every black hole is surrounded by a halo of orbiting photons — light that cannot escape, but also cannot fall inward. This is known as the photon sphere.
+
+When a singularity forms and generates a new 0, the perfectly symmetrical 2D origin point of a child universe, that new domain inherits a filtered imprint of the parent’s structure.
+
+From inside the child universe, this imprint manifests as a uniform background of light. Not directional, not coming from stars or galaxies, but evenly distributed. Exactly like the CMB.
+
+*Thus, the uniformity of the CMB is  not necessarily due to inflation.*
+
+> We are inside the black hole, and what we are seeing is the light halo of our parent black hole, diffused and curved into our new spatial domain.
+
+This would explain several anomalies in the standard cosmological view:
+
+- Why the CMB is so uniform despite no causal contact early on.
+
+- Why the CMB seems to represent a perfect "edge" to our observable universe.
+
+- Why we cannot see beyond it — because we are witnessing the boundary of the gravitational interface with the parent universe.
+
+
+In this view, the CMB becomes not a memory of our own beginning, but a visible tether to our parent universe’s structure — a light echo bent by infinite gravity and frozen into the fabric of our own domain.
+
 ---
 
 ## 2. What Happens During a Collision?
