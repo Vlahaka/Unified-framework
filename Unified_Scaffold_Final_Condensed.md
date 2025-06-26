@@ -597,8 +597,7 @@ Gemini concluded that the Scaffold Theory does **not contradict** any core scien
 
 This analysis serves as the **first external, model-based validation** of the Scaffold Theory’s philosophical coherence, structural universality, and theoretical compatibility with the scientific worldview.
 
-[![**READ HERE The Comparison**](https://img.shields.io/badge/read-here-blue)](https://github.com/Vlahaka/Unified-framework/blob/main/The_comparison.md)
-
+[![📘 Read here the comparison](https://img.shields.io/badge/📘_Read_here_the_comparison-blue?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/main/The_comparison.md)
 ---
 
 ## 8. Summary: The Emergence Chain
