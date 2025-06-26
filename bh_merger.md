@@ -21,6 +21,10 @@ From the Scaffold perspective, each universe is born inside a black hole from a 
 
 Our perception of stillness is rooted in internal references. If the entire observable universe — galaxies, CMB, space-time itself — moves through the parent universe via the motion of the black hole that contains it, that motion becomes undetectable from within. This is not relativistic stillness, but containment-based perceptual isolation.
 
+> "Imagine we are inside a vast cave, one so completely dark that no light, no reflection, no boundary can be seen. In this cave, we begin to move, using our feet to walk. But since there is nothing to see, nothing to hear, and no point of reference, we cannot tell whether we are truly moving or standing still. From our perspective, we are frozen in place. But objectively, we are in motion.
+>
+> This is the paradox of motion without contrast, a state where existence travels, but awareness cannot register the travel because there is no structure to compare against. This is the state of a universe enclosed within a black hole: it can move, carried by the parent black hole through the larger universe, but it cannot perceive this motion. Why? Because there is no structure outside of it visible to the beings within.”
+
 ---
 
 ## 2. What Happens During a Collision?
@@ -34,6 +38,14 @@ When two black holes approach each other:
 At the **point of merger**, the two singularities collapse into a new one.
 
 From our framework:
+
+> At the core of a black hole, gravitational compression becomes so extreme that spacetime separates:
+> 
+> Space collapses entirely into a 2D perfectly symmetrical plane.
+Time, being infinite and non-material, does not collapse or vanish — it disengages, becoming dormant.
+This separation is not destruction but a return to the original state: perfect symmetry with dormant time and latent matter — the 0.
+> 
+> Because time remains, untouched and infinite, it eventually contacts the symmetry again.
 
 * Each black hole contains a universe, a **zero (0)** state formed under extreme symmetry.
 * When two zeros collide, they form a **new zero**, under even greater gravitational pressure.
