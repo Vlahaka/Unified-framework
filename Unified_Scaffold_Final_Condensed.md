@@ -205,6 +205,16 @@ This framework also introduces a symbolic mathematical proposal: division by 0, 
 - #### 🟡 Important Note
 This interpretation of time does **not alter** how time is understood or experienced **within** our universe. All scientific observations—such as time dilation, thermodynamic directionality, and cosmic chronology—remain valid and untouched. What this framework introduces is a **pre-universal structure of time**: one that exists **before** space, matter, and even the Big Bang.
 
+> *Current physics explain motion as sequence unfolding over passage of time in relation to at least one constant observer.* 
+>
+*The passage of time refers to the direction of events after the initial emergence of matter, and entropy.*
+>
+*The arrow of time is defined by its starting point, the emergence, and linearly continuing to the present day, forming a field or a plane in which reside all past events.*
+>
+*The reason why time flows only in one direction (forward) is because of entropy rising since the moment of emergence.*
+>
+*Entropy is a measure of disorder, randomness, or the unavailability of a system's energy to do work or to simplify the measure of difference within a bounded system.*
+
 Inside the universe, **time behaves exactly as established by physics today**. Outside the universe, this framework proposes that time is the **precondition** that allows structure to emerge in the first place—without contradicting any known scientific or empirical facts.
 
 > The reason for the duality of time—Time as an infinite, directional field that exists outside the universe, and Time as a flowing experience within it—stems from how Time interacts with structure.
