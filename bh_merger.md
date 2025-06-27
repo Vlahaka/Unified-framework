@@ -1,4 +1,4 @@
-## Universe Motion, Blackhole Collision, and Light Flash – A Scaffold Perspective
+## From Flash to Background: A Structural Origin of CMB through Black Hole Scaffold 
 
 ## Overview
 
