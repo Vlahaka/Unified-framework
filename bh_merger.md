@@ -114,5 +114,8 @@ Thus, we are not drifting in isolation. We are passing through a photon-rich reg
 
 ---
 
+Vlad Ionut Daniel 
+> 27th of June 2025
+
 
 
