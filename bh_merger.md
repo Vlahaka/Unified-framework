@@ -11,15 +11,17 @@ This paper explores how black holes behave from the lens of the Scaffold Framewo
 
 All interpretations are made using logical extrapolations from the FAT-AEH framework, grounded in structural philosophy rather than mathematics. This is a **philosophical model that predicts** without numerical formalism.
 
-The entire philosophical theoretical scaffold can be read here:
+---
+
+**The entire philosophical theoretical scaffold can be read here:**
 
 [![✨ From Darkness to Structure ✨](https://img.shields.io/badge/✨_From_Darkness_to_Structure_✨-0f172a?style=for-the-badge&labelColor=1e3a8a)](https://github.com/Vlahaka/Unified-framework/blob/main/Unified_Scaffold_Final_Condensed.md)
 
-FAT – Foundational Asymmetry Theory can be read here:
+**FAT – Foundational Asymmetry Theory can be read here:**
 
 [![Read the full FAT paper](https://img.shields.io/badge/📄%20Full%20FAT%20Paper-Click%20Here-blue?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/main/Fat.md)
 
-AEH – Accretion Expansion Hypothesis can be read here:
+**AEH – Accretion Expansion Hypothesis can be read here:**
 
 [![AEH Updated – Dark Energy Explained](https://img.shields.io/badge/AEH_Updated-Dark_Energy_Explained-blueviolet?style=for-the-badge&logo=cosmosdb)](https://github.com/Vlahaka/Unified-framework/blob/main/AEH_v4_Updated.md)
 
