@@ -72,6 +72,8 @@ This would explain several anomalies in the standard cosmological view:
 
 In this view, the CMB becomes not a memory of our own beginning, but a visible tether to our parent universe’s structure — a light echo bent by infinite gravity and frozen into the fabric of our own domain.
 
+*The "From Darkness to Structure" framework interpretation of the CMB does not reject inflation, expansion, or observational cosmology. Rather, it reframes the mechanism of growth and uniformity. If our universe emerged inside a growing black hole, the internal domain would also expand — not through an inflationary burst, but by inward curvature driven by continuous gravitational feeding from the parent domain. The light we observe as the CMB could then be the inherited photon halo of the parent universe, stretched and curved into our domain. Thus, "From Darkness to Structure" framework offers a structural origin for CMB uniformity without denying expansion — only reinterpreting its cause.*
+
 ---
 
 ## 2. What Happens During a Collision?
