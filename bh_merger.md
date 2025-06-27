@@ -112,6 +112,20 @@ Thus, we are not drifting in isolation. We are passing through a photon-rich reg
 
 *The "From Darkness to Structure" framework interpretation of the CMB does not reject inflation, expansion, or observational cosmology. Rather, it reframes the mechanism of growth and uniformity. If our universe emerged inside a growing black hole, the internal domain would also expand — not through an inflationary burst, but by inward curvature driven by continuous gravitational feeding from the parent domain. The light we observe as the CMB could then be the inherited photon halo of the parent universe, stretched and curved into our domain. Thus, "From Darkness to Structure" framework offers a structural origin for CMB uniformity without denying expansion — only reinterpreting its cause.*
 
+📡 Testable Prediction Summary
+
+Condition: Black hole merger in a photon-rich environment
+
+Prediction: A brief, localized flash of light occurs just before merger
+
+Cause: Photon densification + extreme temporal drag
+
+Detection Method: EM observations timed with gravitational wave events
+
+Implication if observed: Supports the Scaffold structural model of time, light, and recursive emergence
+
+Implication if not observed: Refines the structural model's application scope (e.g., denser halos or finer gravitational overlap thresholds required)
+
 ---
 
 Vlad Ionut Daniel 
