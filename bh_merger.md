@@ -13,7 +13,7 @@ All interpretations are made using logical extrapolations from the FAT-AEH frame
 
 ---
 
-## 1. Do Blackholew carry universes within them and also journey through spacetime?
+**Do Blackholew carry universes within them and also journey through spacetime?**
 
 From the Scaffold perspective, each universe is born inside a black hole from a parent universe. If the black hole moves through its parent space, the internal universe moves **with it**, just like objects within a car move as the car moves.
 
