@@ -1,4 +1,4 @@
-## Black Hole Motion, Collision, and Suspended Light– A Scaffold Perspective
+## Universe Motion, Blackhole Collision, and Light Flash – A Scaffold Perspective
 
 ## Overview
 
