@@ -55,7 +55,7 @@ Let us reconsider the black hole not as an end point, but as an origin — a bou
 
 **We propose that black holes are not containers of crushed matter**, but transitional membranes through which new universes emerge. Each universe preserves a causal tether to its parent via the gravitational connection that formed it. The child universe expands, not by pushing outward, but by growing inward, fed by the continuing gravitational intake of its parent black hole.
 
-Thus, the “dolls” do not shrink — they are only perceived to shrink from the outside due to domain-based perspective distortion caused by gravitational asymmetry. **Inside each doll lies a full, vibrant reality.**
+Thus, the “dolls” do not shrink — they are only perceived to shrink from the outside due to domain-based perspective distortion caused by gravitational asymmetry. **Inside each "doll" lies a full, vibrant reality.**
 
 ---
 
