@@ -598,6 +598,15 @@ Gemini concluded that the Scaffold Theory does **not contradict** any core scien
 This analysis serves as the **first external, model-based validation** of the Scaffold Theory’s philosophical coherence, structural universality, and theoretical compatibility with the scientific worldview.
 
 [![📘 Read here the comparison](https://img.shields.io/badge/📘_Read_here_the_comparison-blue?style=for-the-badge)](https://github.com/Vlahaka/Unified-framework/blob/main/The_comparison.md)
+
+ 📘**From Flash to Background** 
+
+This paper introduces a specific astrophysical prediction derived from Scaffold logic: that **black hole mergers should emit a detectable structural flash** at the moment of horizon interaction. The hypothesis arises from an observed absence of flashes in current public simulations by observatories and astrophysics channels. The paper refrains from theoretical overreach and focuses solely on this **testable flash prediction**, sent independently to scientific institutions.
+
+[![Read Here - Black Hole Merger Paper](https://img.shields.io/badge/Read%20Here-Black%20Hole%20Merger%20Paper-blue?style=flat-square)](https://github.com/Vlahaka/Unified-framework/blob/main/bh_merger.md)
+
+
+
 ---
 
 ## 8. Summary: The Emergence Chain
