@@ -395,6 +395,11 @@ It cannot stop, reflect, or relate thus awareness is not possible
 Awareness is distinction + boundary + time.
 The photon moves forever but never knows. *The particle rests, but when touched, wakes up.*
 
+> The universe is aware.
+Only humans are aware that the universe is aware.
+>
+> **Humanity possess the capability to observe itself. It also has the ability to reframe awareness as a trait *unique* only to itself.**
+
 - **Summary**: `Awareness is relational capacity triggered by structural interaction.`
 
 ### 3.2 Entropy
