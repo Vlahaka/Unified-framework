@@ -358,6 +358,8 @@ Time enables recognition to unfold.
 
 Matter in the 2D void, though perfectly still, holds latent awareness.
 
+**To reinforce this structural threshold, we contrast awareness-capable matter with a common entity that lacks it entirely: the photon.**
+
 ### Awareness vs. Unawareness: The Photon
 
 Matter in the Void (Pre-Time Contact) exists as individual, motionless particles. It is in perfect symmetry and has **no** relation or sequence. It has boundary and potential for relation and it is activated by Time touching the void/0/2d plane.
