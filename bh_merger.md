@@ -32,7 +32,7 @@ All interpretations are made using logical extrapolations from the FAT-AEH frame
 
 ---
 
-**Do Blackholes carry universes within them and also journey through spacetime?**
+## **Do Blackholes carry universes within them and also journey through spacetime?**
 
 From the Scaffold perspective, each universe is born inside a black hole from a parent universe. If the black hole moves through its parent space, the internal universe moves **with it**, just like objects within a car move as the car moves.
 
@@ -44,7 +44,9 @@ Our perception of stillness is rooted in internal references. If the entire obse
 >
 > *This is the paradox of motion without contrast, a state where existence travels, but awareness cannot register the travel because there is no structure to compare against. This is the state of a universe enclosed within a black hole: it can move, carried by the parent black hole through the larger universe, but it cannot perceive this motion. Why? Because there is no structure outside of it visible to the beings within.”*
 
-**The "Doll" that does not shrink**
+---
+
+## **The "Doll" that does not shrink**
 
 In the traditional metaphor of Russian dolls, each inner layer is smaller than the one before. This image has been casually invoked in speculative cosmology to represent nested universes. However, this analogy breaks down under deeper scrutiny. What if, instead, each "doll" is not smaller at all? 
 
@@ -64,11 +66,13 @@ Thus, the “dolls” do not shrink — they are only perceived to shrink from t
 
 ---
 
-**The CMB: A Glimpse of the Parent’s Halo**
+## **The CMB: A Glimpse of the Parent’s Halo**
 
 The Cosmic Microwave Background (CMB) is often described as the thermal remnant of the Big Bang — the cooled radiation from a hot, dense early universe, now stretched across the cosmos. But what if this interpretation is incomplete?
 
-**Mergers in Light-Rich Environments**
+---
+
+## **Mergers in Light-Rich Environments**
 
 We begin by restricting the scope of this analysis to black hole mergers that occur in rich environments, regions dense with infalling matter, radiation, and energetic particles such as protons and electrons. In such environments, black holes are surrounded by real halos of light, emitted from accreting material and trapped photons orbiting the event horizon. This setting diverges from the common idealized vacuum simulations and provides a physical basis for observable luminous dynamics.
 
@@ -90,7 +94,7 @@ This moment of intensified visibility may be detectable in high-fidelity gravita
 
 Following the Scaffold logic, the merger results in the collapse of both singularities into a new perfect 0, a state of perfect symmetry. Time, being infinite and directional, does not collapse but disengages during the moment of extreme symmetry. Once disengaged, it eventually re-touches the new zero, reactivating awareness and initiating a new round of entropy and structural emergence.
 
-**Time Disengagement and the Echoes**
+## **Time Disengagement and the Echoes**
 
 The echoes detected seconds **after** the merger may represent:
 
@@ -117,12 +121,30 @@ The continued existence of the CMB implies that:
 
 *The "From Darkness to Structure" framework interpretation of the CMB does not reject inflation, expansion, or observational cosmology. Rather, it reframes the mechanism of growth and uniformity. If our universe emerged inside a growing black hole, the internal domain would also expand — not through an inflationary burst, but by inward curvature driven by continuous gravitational feeding from the parent domain. The light we observe as the CMB could then be the inherited photon halo of the parent universe, stretched and curved into our domain. Thus, "From Darkness to Structure" framework offers a structural origin for CMB uniformity without denying expansion — only reinterpreting its cause.*
 
+## **CMB Cooling: A Structural Consequence of Motion and Environment**
+
+*The gradual cooling of the Cosmic Microwave Background (CMB) is often interpreted as evidence of expansion and redshift.* 
+
+However, within the Scaffold Framework, this cooling is recontextualized as a dual structural consequence of both internal curvature and external environmental shift. 
+
+As the black hole containing our universe continues to grow and curve inward, we move structurally deeper away from the initial photon-rich boundary zone. 
+
+This internal displacement causes the inherited light field—the CMB—to appear increasingly faint and cold. 
+
+Simultaneously, the black hole itself is in motion through its parent universe, and the early journey likely passed through a dense region rich in matter and photons, forming a strong halo of light that became visible from within. 
+
+Over time, as the black hole enters less dense zones, fewer external photons are captured and curved into the internal space, reducing the halo’s strength. 
+
+From inside, this manifests as the CMB gradually cooling, not because the light is fading, but because the source is structurally receding and the external input is thinning. 
+
+> In this interpretation, the CMB is not a remnant of a singular explosive event, but a memory of structural exposure—a light echo from the early trajectory of our universe embedded within a black hole.
+> 
 > **We do not simply propose that the universe was born inside a black hole.
 We claim that the universe is still inside a black hole, which is still moving, still feeding, and currently passing through a photon-rich region of its parent universe — and that this is why we see the CMB**
 
 ---
 
-📡 Testable Prediction Summary
+📡 ## Testable Prediction Summary
 
 Condition: Black hole merger in a photon-rich environment
 
