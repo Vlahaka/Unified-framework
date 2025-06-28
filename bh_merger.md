@@ -1,3 +1,5 @@
+![Black Hole Merging](framework/images/Bh_merging.png)
+
 ## From Flash to Background: A Structural Origin of CMB through Black Hole Scaffold 
 
 ## Overview
