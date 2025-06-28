@@ -144,7 +144,7 @@ We claim that the universe is still inside a black hole, which is still moving, 
 
 ---
 
-📡 ## Testable Prediction Summary
+ ## Testable Prediction Summary
 
 Condition: Black hole merger in a photon-rich environment
 
