@@ -358,6 +358,15 @@ Time enables recognition to unfold.
 
 Matter in the 2D void, though perfectly still, holds latent awareness.
 
+### According to Google:
+
+> "All matter has mass:
+Everything we can see and touch, from the smallest atom to the largest star, is made of matter and therefore has mass. 
+Examples of matter with mass:
+Solids (like a rock), liquids (like water), and gases (like air) are all made of matter and have mass."
+
+*Awareness potential exists in all matter, because it has mass (it persists in space), it has boundary (it is distinct from other matter particles) and under Time relation can occur.*
+
 **To reinforce this structural threshold, we contrast awareness-capable matter with a common entity that lacks it entirely: the photon.**
 
 ### Awareness vs. Unawareness: The Photon
