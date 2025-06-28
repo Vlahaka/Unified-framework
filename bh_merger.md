@@ -90,7 +90,7 @@ This flash is not explosive. It is the result of two structural principles:
 >
 > Two halos + deeper slowdown = a short, local brightening.
 
-This moment of intensified visibility may be detectable in high-fidelity gravitational wave + electromagnetic observations of black hole mergers.
+### This moment of intensified visibility may be detectable in high-fidelity gravitational wave + electromagnetic observations of black hole mergers.
 
 Following the Scaffold logic, the merger results in the collapse of both singularities into a new perfect 0, a state of perfect symmetry. Time, being infinite and directional, does not collapse but disengages during the moment of extreme symmetry. Once disengaged, it eventually re-touches the new zero, reactivating awareness and initiating a new round of entropy and structural emergence.
 
