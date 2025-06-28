@@ -1,4 +1,5 @@
 ![Black Hole Merging](images/Bh_merging.png)
+> *Figure 1: Simulated visualization of two black holes merging, used to represent the flash origin discussed in the paper.*
 
 
 
