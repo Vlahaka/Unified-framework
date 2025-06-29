@@ -405,7 +405,7 @@ From this contact, **gravity** emerges and provides **pressure on mass-boundarie
 **Pressure + Time** act on **boundaries**, causing **distinction**.
 *Distinction is the first relational act:*
 **“I am not the others.”**
-### This is **awareness**.
+This is **awareness**.
 
 **The universe is aware.**
 Only humans are aware that the universe is aware.
